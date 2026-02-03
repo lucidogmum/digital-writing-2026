@@ -37,7 +37,8 @@ HTML, CSS and JS basics. Begin playing in your coding container.
 - Required Reading
   Hayles, N. K. (2007). *Electronic Literature: What Is It?* The Electronic Literature Organization.
 https://eliterature.org/pad/elp.html
-  Flores (2019) *Third Generation Electronic Literature*, .
+
+  Flores (2019) *Third Generation Electronic Literature* .
 https://electronicbookreview.com/publications/third-generation-electronic-literature/
 
 ---
@@ -50,7 +51,7 @@ Assessment 1 explainer; exploration of the Electronic Literature Collection; sec
 Continue with HTML, CSS and JS in your coding container. Deploy via GitHub pages. 
 
 - Required Reading
-  Hedley, J (2024). *Digital Poesis Impulse: A Methodology of Creative Coding with GPT as Co-Pilot. TEXT 28 (1): 1–22.*bhttps:/​/​doi.org/​10.52086/​001c.116921.
+  Hedley, J (2024). *Digital Poesis Impulse: A Methodology of Creative Coding with GPT as Co-Pilot. TEXT 28 (1): 1–22.* . https:/​/​doi.org/​10.52086/​001c.116921.
 
 ---
 
