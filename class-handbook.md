@@ -258,8 +258,9 @@ Should describe and evaulate with references:
 ### **Submission Format**
 Submit **one Word document** on Canvas containing:
 - 500 word reflection
-- Links to your folio  
+- Link to your folio  
 - Link to your creative work  
 - Link to your professional website  
 
+These should all be in your GitHub but provide them here individually for ease of assessment. 
 ---  
