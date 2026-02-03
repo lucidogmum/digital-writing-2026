@@ -98,17 +98,17 @@ Complete an interactivity sketch of your creative work for Assessment 2.
 
 ## **Week 6 — Idea Development & Interactivity Mapping**
 ### **Wednesday**  
-Final case study presentations; interactivity map sharing and ideas workshop; peer feedback.
+Interactivity map sharing and ideas workshop; peer feedback. Any outstadning case study presentations; 
 Scoping and scaling ideas through mapping methods; fifth swift reflection.
 ### **Thursday**  
-Twine working with background images, scaling images, and using audio
+Twine working with background images, scaling images, and using audio.
 
 ---
 
 ## **Week 7 — Design, Images & Visual Storytelling**
 ### **Wednesday**  
-Workshop on visual/design elements; design and image sharing workshop; peer feedback.
-Platforms discussion: Twine? web-based HTML/CSS/JS? bitsy case study - what is best for your creative idea? Continue mapping, scoping; sixth swift reflection.
+Workshop on visual/design elements; sharing and peer feedback.
+Platforms discussion: Twine? Web-based HTML/CSS/JS? bitsy case study - what is best for your creative idea? Continue mapping, scoping; sixth swift reflection.
 ### **Thursday** 
 Twine image maps; Bitsy and Inform7 discussion. Chose your platform to work with from here. 
 
@@ -124,8 +124,8 @@ Any outstanding presentations; folio refinement toward Ass 2 submission.
 
 ## **Week 9 — Prototyping & Concept Development**
 ### **Wednesday** 
-Assessment 3 briefing: experimentation and iteration; proposal consultations and concept feedback.
-Technical troubleshooting. Seventh swift reflection.
+Assessment 3 review: pushing your experimentation and iteration; proposal consultations and concept feedback.
+Seventh swift reflection.
 ### **Thursday**  
 Technical question survey, P5.js animations or other learnings of interest; troubleshooting individual projects.
 
@@ -160,7 +160,7 @@ Troubleshooting creative work and Ass 3 preparation.
 ---
 
 ## **Assessment 1: Case Study Presentation & Studio Process Documentation**  
-**Due:** Week 5 — In class & submit on Canvas (April 3)  
+**Due:** Week 5 — In class & submit on Canvas (April 4)  
 
 ### **Submission Requirements**
 - 4–5 minute oral presentation (in class)  
@@ -222,7 +222,7 @@ Assessed on attention to detail and depth of engagement.
 ---
 
 ## **Assessment 3: Developed Creative Work, Folio & Professional Website (50%)**  
-**Due:** Canvas submission by **June 5**  
+**Due:** Canvas submission by **June 6**  
 
 ### **Submission Requirements**
 #### **1. Completed Work of Electronic Literature**
