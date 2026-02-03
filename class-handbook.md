@@ -230,6 +230,7 @@ Assessed on attention to detail and depth of engagement.
 - Fully developed, creatively resolved work  
 - Published via **GitHub Pages**  
 - Scale/length negotiated and confirmed with studio tutors (Weeks 8–10)
+- Coversheet for the work included in canvas submission.
 
 #### **2. Full Semester Folio of Process Documentation**
 Includes:
@@ -256,10 +257,9 @@ Should describe and evaulate with references:
 - Reflection on how your work fits into the broader field of digital writing practice
 
 ### **Submission Format**
-Submit **one Word document** on Canvas containing:
+Submit a **Word document** on Canvas containing:
 - 500 word reflection
-- Link to your folio  
-- Link to your creative work  
-- Link to your professional website  
-These should all be in your GitHub but provide them here individually for ease of assessment. 
+- At the top of this a link to your complete folio and a link to your professional website  
+- Coversheet for your creative work including a link to your work of E-Lit 
+Your compplete folio, creative work of E-Lit and personal website shuold all be linked in your GitHub but provide them here also for ease of assessment. 
 ---  
