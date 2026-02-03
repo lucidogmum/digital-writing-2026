@@ -21,79 +21,242 @@ Please feel free to email us about Equitable Learning Plans, any circumstances t
 
 ## Teaching schedule for 2026
 
-DIGITAL WRITING
-
-2.30pm - 5.30pm Mondays
-Weeks 1 to 12 (excepting Week 2 as it is a public holiday)
-Face-to-face 
-
+Classes are all face to face in computer labs
+12.30pm - 2.30pm Wednesday
 and
+1.30pm - 4.30pm Thurssday
 
-12.30pm - 2.30pm Wednesdays
-Weeks 1 to 12
-Face-to-face
+---
 
-There will be readings almost every week - more in the early weeks, fewer in the later weeks.
+## **Week 1 — Introduction to Digital Writing & Getting Set Up**
+### **Wednesday**  
+Introduction to the course and syllabus; defining digital writing; exploring key examples in electronic literature.
+Assessment overview; GitHub setup; Folio creation; first swift reflection.
+### **Thursday**
+HTML, CSS and JS basics. Begin playing in your coding container. 
+- Required Reading
+  Hayles, N. K. (2007). *Electronic Literature: What Is It?* The Electronic Literature Organization.
+https://eliterature.org/pad/elp.html
+  Flores (2019) *Third Generation Electronic Literature*, .
+https://electronicbookreview.com/publications/third-generation-electronic-literature/
 
-There will also be works of electronic literature to read and present back on in class.
+---
 
-## Assessment Tasks
+## **Week 2 — Experimentation & Digital Poesis**
+### **Wednesday**  
+Discussion of experimentation in digital poetics; exploration of experimental case studies.
+Assessment 1 explainer; exploration of the Electronic Literature Collection; second swift reflection.
+### **Thursday** 
+Continue with HTML, CSS and JS in your coding container. Deploy via GitHub pages. 
 
-### Task 1: Individual case study (25%)
+- Required Reading
+  Hedley, J (2024). *Digital Poesis Impulse: A Methodology of Creative Coding with GPT as Co-Pilot. TEXT 28 (1): 1–22.*bhttps:/​/​doi.org/​10.52086/​001c.116921.
 
-3-5 minute presentation and discussion
+---
 
-### View the [additional instructions/tips for completing Assessment 1 here](https://github.com/jennyhedley/digital-writing-2025/blob/main/README.md#assessment-criteria---content-40)
+## **Week 3 — Programmatic & Constraint‑Based Writing**
+### **Wednesday**   
+Third‑generation electronic literature & the politics of experimentation; Oulipo & constraint‑based and generative writing; collective writing exercise.
+Contemporary case studies: Tarako Gorge and the EWC's Writing the Virus; third swift reflection; assessment 1 check‑in.
+### **Thursday** 
+Finish working in the remixed coding playground and publish to GitHub pages. 
 
-**Slides due Week 4 by 11.59pm on Friday 29th March | Presentation Due Week 5 in class on Monday 31st March**
+- Required Reading
+  Berens (2019). *E-Lit's #1 Hit: Is Instagram Poetry E-Literature?* .
+https://electronicbookreview.com/publications/e-lits-1-hit-is-instagram-poetry-e-literature/#marginnote-def-gloss1
 
-Prepare a case study of a work of electronic literature. How does it work? What does it do? How does the reader interact with the piece? What kinds of questions does it raise for you? You should include a detailed analysis of form, to offer your lab group some context, and share with us what you have learnt that might relate to your own practice or potential output.
+---
 
-Your will choose a work from one of the Electronic Literature Collections or, if you have another work in mind, in negotiation with your lab leader. You must select the work by Week 2 and you will have two weeks to read the work and prepare the presentation, to present in Week 4.
+## **Week 4 — Hypertext, Interactive Fiction & Narrative Architecture**
+### **Wednesday**  
+Interactive narrative theory; Ryan’s interactivity types; hypertext and IF case study discussion.
+Plot graphs and interactive architectures; mapping narrative structures; fourth swift reflection.
+### **Thursday**   
+Introduction to Twine and using GitHub desktop and VS Code
 
-You only have 3 minutes, so good organisation, clear focus and well-chosen examples are important here. Support materials are essential - a clear Powerpoint presentation so we can follow along.
+- Required Reading
+  Ryan, M.-L. (2006). *Toward an Interactive Narratology.* In *Avatars of Story* (NED–New edition, Vol. 17, pp. 97–125). University of Minnesota Press.
+http://www.jstor.org/stable/10.5749/j.ctttv622.9
 
-Your presentation should briefly address ‘What is conveyed’ by the digital work and tell us something about the artist and where the artist sits in terms of industry or material practice. But you should then spend most of your time asking 'How does it happen?', whatever it is that this digital work does.
+---
 
-Here, you might analyse: how a reader interacts with the work or whether they can; the relationship between imagery and text; how the text changes between readings; how movement acts in the work; the structure of the work; the technologies used; the relationship between space and time in the work (explicit or implicit); the relationship between the work and the browser. Address a few of these ideas, using specific examples in a Powerpoint.
+## **Week 5 — Assessment 1 Case Study Presentations**
+### **Wednesday** 
+Case study presentations.
 
-We want to close read electronic literature techniques so we can understand them better.
+### **Thursday**  
+Continuation of presentations; folio refinement toward Ass 1 submission.
 
-Please leave the class with 1 question at the end of the talk. The question should be open-ended and meant to make us think about our own practice, making or reading digital literature.
+---
 
-Afterwards, please upload your Powerpoint to Canvas.
+## **Semester Break**
+No classes.  
+Complete an interactivity sketch of your creative work for Assessment 2.
 
-### Task 2: Proposal (25%)
+---
 
-5-minute presentation plus materials e.g. draft creative work.
+## **Week 6 — Idea Development & Interactivity Mapping**
+### **Wednesday**  
+Final case study presentations; interactivity map sharing and ideas workshop; peer feedback.
+Scoping and scaling ideas through mapping methods; fifth swift reflection.
+### **Thursday**  
+Twine working with background images, scaling images, and using audio
 
-**Due Week 8 in class on Monday 28th April plus upload slides to Canvas by Friday 2nd May 11.59pm**
+---
 
-Present your creative work-in-progress to an audience of your peers who will provide professional feedback on how to develop your work. 
-**This must include an early prototype** which means at least 4 pages of design and text preferably in published mode so we can see it (not just the back-end). If you have been having a lot of trouble with pushing your prototypes to publish mode then mock up some visuals instead. Also include in your presentaton a map/plan for the final length/scope of the work in terms that make sense for the kind of work you are doing. This could mean pages/screens/steps/branches etc. 
+## **Week 7 — Design, Images & Visual Storytelling**
+### **Wednesday**  
+Workshop on visual/design elements; design and image sharing workshop; peer feedback.
+Platforms discussion: Twine? web-based HTML/CSS/JS? bitsy case study - what is best for your creative idea? Continue mapping, scoping; sixth swift reflection.
+### **Thursday** 
+Twine image maps; Bitsy and Inform7 discussion. Chose your platform to work with from here. 
 
-**Iteration and troubleshooting**:You should reflect on your progress so far, and how these early stages have changed the way you are thinking about the final work. It is totally fine to have run into trouble with your prototype work (it would be unusual not to). If this has happened, show an example of what you are trying to do and how it has not worked out. Tell us your thinking on why this has happened and talk to your attempts to fix it. Is the problem just something you have missed along the way over the past few weeks? Are you are trying to do something that is beyond the scope of this project? Either might be just as likely.  
+---
 
-Your presentation should be presented as a slideshow e.g. Powerpoint, narrated and contextualised by you.
+## **Week 8 — Proposal Presentations**
+### **Wednesday**  
+Assessment 2 Proposal presentations.
+### **Thursday**  
+Any outstanding presentations; folio refinement toward Ass 2 submission.
 
-Your presentation should be 7 minutes long including time for class discussion. 
+---
 
-Afterwards, please upload to Canvas.
+## **Week 9 — Prototyping & Concept Development**
+### **Wednesday** 
+Assessment 3 briefing: experimentation and iteration; proposal consultations and concept feedback.
+Technical troubleshooting. Seventh swift reflection.
+### **Thursday**  
+Technical question survey, P5.js animations or other learnings of interest; troubleshooting individual projects.
 
-### Task 3: Folio including a developed creative work (50%)
+---
 
-Folio of 15-30 pages comprising creative experiments (including screenshots with a links for the digital experiments), professional materials, reflection and a work of electronic literature with a length agreed on by your lab leader.
+## **Week 10 — Personal Website Design and Build**
+### **Wednesday**  
+Small‑group workshops on personal website design. Advantages of owning and building you own website. 
+Eigth swift reflection 
+### **Thursday**  
+Website building with Github Desktop and VS Code.
 
-**Due end of Week 13, Friday 6th June by midnight, to TurnItIn/Canvas**
+---
 
-Deliver a folio of the work developed during your lab and an accompanying, formal reflection that engages with the studio, the group, and the development of your work over/through the course of the semester, asking: how does my work fit within the context of my community?
+## **Week 11 — Studio Workshopping & Troubleshooting**
+### **Wednesday**  
+Working session; individual consultations; Possible studio showcase this week with the whole course.
+### **Thursday**  
+Workshopping and troubleshooting creative work.
 
-You will be given a range of exercises throughout the semester which will be opportunities for you to test ideas, materials and mediums. You will develop work in response to prompts, restrictions and briefs and present this work in class. This will develop a folio that collects your electronic literature experiments, reflective writing (including some critical writing in response to the work of your peers) and any other documentation of your lab work.
+---
 
-This is a great place to demonstrate the breadth of your engagement - what have you tried and tested and failed at, when working in this medium?
+## **Week 12 — Ass 3 Submission Preparation**
+### **Wednesday**   
+Exercise twoard final 500 word reflection for Ass 3. Troubleshooting creative work and any questions.
+### **Thursday** 
+Troubleshooting creative work and Ass 3 preparation. 
 
-As well as documenting your lab work, the folio should include professional materials discussed throughout the semester. For the digital writing studio, that includes (but doesn't have to be limited to - it's up to you) a link to your GitHub account, an artist's statement and a personal webpage or artist CV. In the `readme.md` file of your coding playground, be sure to include the URL of the Glitch.com website that you worked on editing in the first three weeks of class.
+---
+# **Digital Writing 2026 – Assessment Guide**
 
-The folio must include a polished work of electronic literature that you have prepared this semester. This is a complete work, not a prototype, with ideas that have been introduced, developed and resolved. The length of the work will vary depending on the kind of work that you develop so the final length should be proposed in Week 8 and agreed on by your lab leader.
+---
 
-**Final weeks schedule** Please see [Canvas module](https://rmit.instructure.com/courses/146513/pages/class-activities-w9-12) for schedule of our final weeks 9 - 12.  
+## **Assessment 1: Case Study Presentation & Studio Process Documentation**  
+**Due:** Week 5 — In class & submit on Canvas (April 3)  
+
+### **Submission Requirements**
+- 4–5 minute oral presentation (in class)  
+- PowerPoint slides or another presentation format  
+- Link to GitHub folio showing documentation of Weeks 1–4 in-class exercises, including:  
+  - published coding playground  
+  - First Twine explorations from W4 
+  - four *swift reflections*  
+
+### **Case Study Task**
+Choose a work of electronic literature from the Electronic Literature Collections (or negotiate an alternative with your lab leader).  
+Recommended: select the work by Week 3.
+
+Your 5‑minute presentation must:
+- Offer a clear, well-organised analysis of the work  
+- Discuss form, context, and insights relevant to your own emerging creative practice  
+- Address:
+  - how the work functions  
+  - how the reader interacts  
+  - artistic intent and reader experience  
+- Connect to discussions and required readings from Weeks 1–4  
+- Include specific examples of form, functions, behaviours, imagery/text, structure, technology, and browser‑based interactions  
+- End with *one open-ended question* for the class
+
+### **Studio Process Documentation**
+Ensure all in‑class exercises and swift reflections from Weeks 1–4 are included in your Digital Writing Folio on GitHub.  
+You will be assessed on attention to detail and depth of engagement.  
+
+---
+
+## **Assessment 2: Proposal for Work of E‑Lit & Process Documentation (25%)**  
+**Due:** Week 8 — In class + Canvas (Friday May 1)  
+
+### **Submission Requirements**
+- 6–7 minute oral presentation (in class)  
+- PowerPoint slides or another presentation format  
+- Link to GitHub folio showing documentation of Weeks 6–7 in‑class exercises  
+- Include of interactivity architecture maps/sketches (ideally completed over semester break)
+
+### **Proposal Presentation Requirements**
+Present your work‑in-progress, including:
+- A clear *interactivity architecture sketch* with full scope of your idea mapped out  
+- An **early prototype** of the digital work:
+  - minimum **4 screens/rooms coded**  
+  - must be published to demonstrate user experience  
+  - if publishing fails, mock‑up design visuals are acceptable
+
+Be sure to speak to:
+- Iterations and testing of ideas  
+- Reflection on your development so far  
+- Problems encountered and attempts to resolve them  
+- How challenges have shaped your thinking about the final work  
+- Revisions to your interactivity maps and architecture, if needed
+
+### **Studio Process Documentation**
+Ensure Weeks 6–7 exercises and break‑period sketching tasks are fully documented in your GitHub folio.  
+Assessed on attention to detail and depth of engagement.  
+
+---
+
+## **Assessment 3: Developed Creative Work, Folio & Professional Website (50%)**  
+**Due:** Canvas submission by **June 5**  
+
+### **Submission Requirements**
+#### **1. Completed Work of Electronic Literature**
+- Fully developed, creatively resolved work  
+- Published via **GitHub Pages**  
+- Scale/length negotiated and confirmed with studio tutors (Weeks 8–10)
+
+#### **2. Full Semester Folio of Process Documentation**
+Includes:
+- All in‑class activities and swift reflections (Weeks 1–12)  
+- Documentation of trials, iterations, experiments, and resolutions  
+- Any earlier missed work (recommended to include)
+
+This should demonstrate:
+- Breadth of engagement  
+- Technical and conceptual development  
+- Reflective process across the full semester
+
+#### **3. Basic Professional Website**
+Must include:
+- A bio  
+- Link to your completed E‑Lit work  
+- Any other creative pieces or design elements for your professional profile
+
+#### **4. 500‑word Critical Reflection**
+Should describe and evaulate with references:
+- Key learning moments (“light‑bulb” moments)  
+- Insights from studio, group, and personal creative process  
+- Connections to scholarly contexts from course readings  
+- Reflection on how your work fits into the broader field of digital writing practice
+
+### **Submission Format**
+Submit **one Word document** on Canvas containing:
+- Links to your folio  
+- Link to your creative work  
+- Link to your professional website  
+
+---  
