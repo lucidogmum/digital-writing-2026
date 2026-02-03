@@ -31,7 +31,7 @@ and
 ## **Week 1 — Introduction to Digital Writing & Getting Set Up**
 ### **Wednesday**  
 Introduction to the course and syllabus; defining digital writing; exploring key examples in electronic literature.
-Assessment overview; GitHub setup; Folio creation; first swift reflection.
+Assessment overview; GitHub setup; Folio creation; first swift reflection of 300 - 400 words.
 ### **Thursday**
 HTML, CSS and JS basics. Begin playing in your coding container. 
 - Required Reading
@@ -46,7 +46,7 @@ https://electronicbookreview.com/publications/third-generation-electronic-litera
 ## **Week 2 — Experimentation & Digital Poesis**
 ### **Wednesday**  
 Discussion of experimentation in digital poetics; exploration of experimental case studies.
-Assessment 1 explainer; exploration of the Electronic Literature Collection; second swift reflection.
+Assessment 1 explainer; exploration of the Electronic Literature Collection; second swift reflection of 300 - 400 words.
 ### **Thursday** 
 Continue with HTML, CSS and JS in your coding container. Deploy via GitHub pages. 
 
@@ -58,7 +58,7 @@ Continue with HTML, CSS and JS in your coding container. Deploy via GitHub pages
 ## **Week 3 — Programmatic & Constraint‑Based Writing**
 ### **Wednesday**   
 Third‑generation electronic literature & the politics of experimentation; Oulipo & constraint‑based and generative writing; collective writing exercise.
-Contemporary case studies: Tarako Gorge and the EWC's Writing the Virus; third swift reflection; assessment 1 check‑in.
+Contemporary case studies: Tarako Gorge and the EWC's Writing the Virus; third swift reflection of 300 - 400 words; assessment 1 check‑in.
 ### **Thursday** 
 Finish working in the remixed coding playground and publish to GitHub pages. 
 
@@ -71,7 +71,7 @@ https://electronicbookreview.com/publications/e-lits-1-hit-is-instagram-poetry-e
 ## **Week 4 — Hypertext, Interactive Fiction & Narrative Architecture**
 ### **Wednesday**  
 Interactive narrative theory; Ryan’s interactivity types; hypertext and IF case study discussion.
-Plot graphs and interactive architectures; mapping narrative structures; fourth swift reflection.
+Plot graphs and interactive architectures; mapping narrative structures; fourth swift reflection of 300 - 400 words.
 ### **Thursday**   
 Introduction to Twine and using GitHub desktop and VS Code
 
@@ -99,7 +99,7 @@ Complete an interactivity sketch of your creative work for Assessment 2.
 ## **Week 6 — Idea Development & Interactivity Mapping**
 ### **Wednesday**  
 Interactivity map sharing and ideas workshop; peer feedback. Any outstadning case study presentations; 
-Scoping and scaling ideas through mapping methods; fifth swift reflection.
+Scoping and scaling ideas through mapping methods; fifth swift reflection of 300 - 400 words.
 ### **Thursday**  
 Twine working with background images, scaling images, and using audio.
 
@@ -108,7 +108,8 @@ Twine working with background images, scaling images, and using audio.
 ## **Week 7 — Design, Images & Visual Storytelling**
 ### **Wednesday**  
 Workshop on visual/design elements; sharing and peer feedback.
-Platforms discussion: Twine? Web-based HTML/CSS/JS? bitsy case study - what is best for your creative idea? Continue mapping, scoping; sixth swift reflection.
+Platforms discussion: Twine? Web-based HTML/CSS/JS? bitsy case study - what is best for your creative idea? Continue mapping, scoping; 
+Sixth swift reflection of 300 - 400 words.
 ### **Thursday** 
 Twine image maps; Bitsy and Inform7 discussion. Chose your platform to work with from here. 
 
@@ -125,7 +126,7 @@ Any outstanding presentations; folio refinement toward Ass 2 submission.
 ## **Week 9 — Prototyping & Concept Development**
 ### **Wednesday** 
 Assessment 3 review: pushing your experimentation and iteration; proposal consultations and concept feedback.
-Seventh swift reflection.
+Seventh swift reflection of 300 - 400 words.
 ### **Thursday**  
 Technical question survey, P5.js animations or other learnings of interest; troubleshooting individual projects.
 
@@ -134,7 +135,7 @@ Technical question survey, P5.js animations or other learnings of interest; trou
 ## **Week 10 — Personal Website Design and Build**
 ### **Wednesday**  
 Small‑group workshops on personal website design. Advantages of owning and building you own website. 
-Eigth swift reflection 
+Eigth swift reflection of 300 - 400 words. 
 ### **Thursday**  
 Website building with Github Desktop and VS Code.
 
@@ -256,6 +257,7 @@ Should describe and evaulate with references:
 
 ### **Submission Format**
 Submit **one Word document** on Canvas containing:
+- 500 word reflection
 - Links to your folio  
 - Link to your creative work  
 - Link to your professional website  
