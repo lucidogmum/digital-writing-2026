@@ -1,8 +1,7 @@
 # RMIT University 2026 Digital Writing weekly class notes and exercises
 
-## Class Resources
+## Syllabus, Readings and Assessments 
 
-- [Reading list on Canvas](https://rmit.alma.exlibrisgroup.com/leganto/public/61RMIT_INST/lists/53766783660001341?auth=SAML)
 - [Class handbook](/class-handbook.md)
 
 
