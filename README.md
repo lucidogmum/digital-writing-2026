@@ -3,7 +3,7 @@
 ## Class Resources
 
 - [Reading list on Canvas](https://rmit.alma.exlibrisgroup.com/leganto/public/61RMIT_INST/lists/53766783660001341?auth=SAML)
-- [Class handbook](/classhandbook.md)
+- [Class handbook](/class-handbook.md)
 
 
 ## Reminder - Drop-in Sessions
