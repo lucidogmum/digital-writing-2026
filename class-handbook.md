@@ -228,7 +228,7 @@ Assessed on attention to detail and depth of engagement.
 ### **Submission Requirements**
 #### **1. Completed Work of Electronic Literature**
 - Fully developed, creatively resolved work  
-- Published via **GitHub Pages**  
+- Published via **GitHub Pages**,**Vercel** **or** **Netlify** 
 - Scale/length negotiated and confirmed with studio tutors (Weeks 8–10)
 - Coversheet for the work included in canvas submission.
 
@@ -259,7 +259,7 @@ Should describe and evaulate with references:
 ### **Submission Format**
 Submit a **Word document** on Canvas containing:
 - 500 word reflection
-- At the top of this a link to your complete folio and a link to your professional website  
-- Coversheet for your creative work including a link to your work of E-Lit 
-Your compplete folio, creative work of E-Lit and personal website shuold all be linked in your GitHub but provide them here also for ease of assessment. 
+- At the top of this a link to your complete digital-writing-folio repository and a link to your professional website  
+- Coversheet for your creative work (includes a link to your work of E-Lit) 
+*Your compplete folio, creative work of E-Lit and personal website should all be avaiable at your GitHub but provide them here also for ease of assessment. 
 ---  
