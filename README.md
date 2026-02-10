@@ -49,20 +49,18 @@ Class discussion: What makes each work a piece of digital writing? What is your 
 - [The Electronic Literature Collections](https://collection.eliterature.org/)
 - Notes on Key Readings 
 
-Break 
+## Break 
 
 ### Assessment overview 
 
 ### Exercise 
 
-# Set up GitHub account 
+### Set up GitHub account and digital-writing-folio
 
 1. Create a [GitHub](https://github.com/) account
 2. Do the ["Hello World" exercise](https://guides.github.com/activities/hello-world/)
 
-# Set up digital-writing-folio
-
-In GitHub create a public repository called `digital-writing-folio` with a `README` (tick box yes). Add a GNU General Public, Apache 2.0 or MIT Licence. 
+Once you have done this create a public repository called `digital-writing-folio` with a `README` (tick box yes). Add a GNU General Public, Apache 2.0 or MIT Licence. 
 
 On the main page of the repository you will see a button called "Add file".
 
@@ -78,7 +76,7 @@ When writing in your folio you will use the plaintext formatting code called **m
 
 On the example digital writing folio click on the "README.md" and then the CODE tab. On the far right you should see a button that looks like "<>". Select that button to see the **markdown** formatting tags on the page. You can follow this technique for all the pages to see the formatting used. 
 
-## swift-reflection - 15 mins
+### swift-reflection - 15 mins
 Edit the `swift-reflections.md` page you just created in your digital writing folio and respond to these questions: 
 
 - What makes a work a piece E-Literature?
