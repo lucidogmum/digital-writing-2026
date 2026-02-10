@@ -3,8 +3,8 @@
 ## Class Resources
 
 - [Reading list on Canvas](https://rmit.alma.exlibrisgroup.com/leganto/public/61RMIT_INST/lists/53766783660001341?auth=SAML)
-- [Class handbook](/class-handbook.md)
-- [GitHub repository for weekly class updates](https://github.com/jennyhedley/digital-writing-2025)
+- [Class handbook](/classhandbook.md)
+
 
 ## Reminder - Drop-in Sessions
 
