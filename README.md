@@ -1,13 +1,12 @@
-# RMIT University 2026 Digital Writing weekly class notes and exercises
+# COMM2651 Sem 1 2026. Digital Writing Weekly Class Notes
 
-## Syllabus, Readings and Assessments 
+Refer to this page for week-to-week activities. The syllabus, readings and assessments can be found in the [class handbook](/class-handbook.md)  
 
-- [Class handbook](/class-handbook.md)
 
 
 ## Reminder - Drop-in Sessions
 
-Jenny and Lucinda will have an open drop in Teams video meeting each Wednesday 5.15-6.15pm for consultation outside class via [this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGJkZTA3ZGEtODRjZS00ZmY4LWFmZDQtNGFhMDU5NWFmNTE5%40thread.v2/0?context=%7b%22Tid%22%3a%22d1323671-cdbe-4417-b4d4-bdb24b51316b%22%2c%22Oid%22%3a%221d10c7bf-efc3-4712-b85f-2b383cf17eea%22%7d).
+<!--Jenny and Lucinda will have an open drop in Teams video meeting each Wednesday 5.15-6.15pm for consultation outside class via [this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGJkZTA3ZGEtODRjZS00ZmY4LWFmZDQtNGFhMDU5NWFmNTE5%40thread.v2/0?context=%7b%22Tid%22%3a%22d1323671-cdbe-4417-b4d4-bdb24b51316b%22%2c%22Oid%22%3a%221d10c7bf-efc3-4712-b85f-2b383cf17eea%22%7d).-->
 
 ## To prepare for Week 1
 
@@ -48,13 +47,11 @@ Class discussion: What makes each work a piece of digital writing? What is your 
 - [The Electronic Literature Collections](https://collection.eliterature.org/)
 - Notes on Key Readings 
 
-## Break 
+### Break 
 
 ### Assessment overview 
 
-### Exercise 
-
-### Set up GitHub account and digital-writing-folio
+### Exercise: set up GitHub account and digital-writing-folio
 
 1. Create a [GitHub](https://github.com/) account
 2. Do the ["Hello World" exercise](https://guides.github.com/activities/hello-world/)
@@ -82,7 +79,7 @@ Edit the `swift-reflections.md` page you just created in your digital writing fo
 - Of the key examples above, which did you like most and why? 
 - What do you expect from this class? What would you like to be better at by the end of semester? 
 
-Edit the `README.md` Add a biographical note by answering the following questions:
+### final task (can do after class): edit `README.md` in your new folio. Add a biographical note by answering the following questions:
 - What types of writing do you do (e.g. fiction, nonfiction, poetry)?
 - What tools (or techniques) do you use to write? Why do you use them?
 - How do these tools shape the way you write (e.g., constrain or generate)?
@@ -92,8 +89,8 @@ Edit the `README.md` Add a biographical note by answering the following question
 
 ### Intro to the Coding Playground
 
-- Create an account on [Glitch.com](https://glitch.com/) using your GitHub login credentials
-- Remix this code: [https://glitch.com/edit/#!/dw-coding-playground](https://glitch.com/edit/#!/dw-coding-playground)
+- Create an account on XXXX <!--[Glitch.com](https://glitch.com/)--> using your GitHub login credentials
+- Remix this code: <!-- [https://glitch.com/edit/#!/dw-coding-playground](https://glitch.com/edit/#!/dw-coding-playground) -->
 
 ---
 
