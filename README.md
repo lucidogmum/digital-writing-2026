@@ -1,16 +1,16 @@
 # COMM2651 Sem 1 2026. Digital Writing Weekly Class Notes
 
-Refer to this page for week-to-week activities. The syllabus, readings and assessments can be found in the [class handbook](/class-handbook.md)  
+Refer to this page for week-to-week activities. The syllabus, key readings and assessment outlines can be found in the [class handbook](/class-handbook.md)  
 
 
 
 ## Reminder - Drop-in Sessions
 
-<!--Jenny and Lucinda will have an open drop in Teams video meeting each Wednesday 5.15-6.15pm for consultation outside class via [this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGJkZTA3ZGEtODRjZS00ZmY4LWFmZDQtNGFhMDU5NWFmNTE5%40thread.v2/0?context=%7b%22Tid%22%3a%22d1323671-cdbe-4417-b4d4-bdb24b51316b%22%2c%22Oid%22%3a%221d10c7bf-efc3-4712-b85f-2b383cf17eea%22%7d).-->
+<!--Jenny and Lucinda will have an open drop in Teams video meeting for consultation outside class via [this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGJkZTA3ZGEtODRjZS00ZmY4LWFmZDQtNGFhMDU5NWFmNTE5%40thread.v2/0?context=%7b%22Tid%22%3a%22d1323671-cdbe-4417-b4d4-bdb24b51316b%22%2c%22Oid%22%3a%221d10c7bf-efc3-4712-b85f-2b383cf17eea%22%7d).-->
 
 ## To prepare for Week 1
 
-Read (in addition to what is on Reading List):
+Read (in addition to what is on [Reading List](https://rmit.alma.exlibrisgroup.com/leganto/public/61RMIT_INST/lists/57980087760001341?auth=SAML):
 1. The kinetic poem ["Taroko Gorge"](https://collection.eliterature.org/3/work.html?work=taroko-gorge)
 2. The electronic poem ["The Gathering Cloud"](https://luckysoap.com/thegatheringcloud/)
 3. The hypertext fiction ["First Draft of the Revolution"](https://collection.eliterature.org/3/work.html?work=first-draft-of-the-revolution)
