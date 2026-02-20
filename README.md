@@ -3,7 +3,6 @@
 Refer to this page for week-to-week activities. The syllabus, key readings and assessment outlines can be found in the [class handbook](/class-handbook.md)  
 
 
-
 ## Reminder - Drop-in Sessions
 
 <!--Jenny and Lucinda will have an open drop in Teams video meeting for consultation outside class we will poll for the best time in week 1. 
