@@ -89,8 +89,10 @@ Edit the `swift-reflections.md` page you just created in your digital writing fo
 
 ### Intro to the Coding Playground
 
---!> Create an account on XXXX <!--[Glitch.com](https://glitch.com/)--> using your GitHub login credentials
-- Remix this code: <!-- [https://glitch.com/edit/#!/dw-coding-playground](https://glitch.com/edit/#!/dw-coding-playground) -->
+<!--- Create an account on XXXX using your GitHub login credentials 
+ Remix this code: [https://glitch.com/edit/#!/dw-coding-playground](https://glitch.com/edit/#!/dw-coding-playground)-->
+
+
 
 
 If you missed out on the first week of classes, please make sure that you have set up a GitHub account and that you follow the exercises above including Hello World (if you get lost, find a YouTube tutorial) and setting up your digital writing folio. Make sure that you're familiar with the documentation in this GitHub repository including the [class handbook](https://github.com/jennyhedley/digital-writing-2025/blob/main/class-handbook.md), and that you are up to date on the class readings. Also be sure to share your GitHub username with Jenny and Lucinda if you have not done so already.
