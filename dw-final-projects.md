@@ -12,29 +12,15 @@ In 'Who Killed Miss Jones?', the small, rural Victorian town of Sentry Creek is 
 A website-based piece of interactive fiction for ARG and mystery fans alike, Kaitlyn’s Blog is an interactive mystery in which you must find the answer to your girlfriend’s years-old disappearance. Utilising hidden links, codes, and secret messages, this piece of interactive fiction will have you navigate the increasingly complex maze that’s hidden beneath the many layers that makes up the gentle façade that has become Kaitlyn’s Blog.
 Content warning for mentions of domestic abuse, violence, and murder.
 
-- Farida S - [Flapper](https://faridashams.github.io/Flapper-ongoing-project/)
-
-A fiction murder mystery set in 1920s New York, where it follows main
-protagonist, Estelle, as she recounts her journey into the jazz scene, and a mysterious death that surrounds the troupe in a series of journal entries.
-
 - Jordan T - [Shifted](https://pieofepicness.github.io/final-twine-project-3/)
 
 A Control/Remedy Gaming Universe fanwork, it tells the story of Maya Chowdhury, who gets taken by one of the Oldest House’s building shifts, and she has to find a way out or remain lost forever.
 
 #### Surrealism and Supernaturalism
-- Olivia B - [Nightfall](https://oliviabrcan.github.io/digital-writing-story/)
-
-This is an interactive fiction story that follows the protagonist, Riley, on their journey to return home. Riley has woken up in an unknown place with no memories of who they are or where they are from, and decides to accept the help of a local, Damien, to have a fighting chance of getting back. However, Riley’s courage is tested as they travel across the realm and learn that not everything is as it seems.
 
 - Charlotte B [How to Use a Lift](https://charlotteburnett.github.io/How-to-Use-a-Lift/)
 
 ‘How to Use a Lift’ is a digital interactive fiction work created using Twine. It beckons readers to operate the elevator of a mysterious tower and successfully navigate to their desired destination. Readers can decide if they will follow the instructions provided by the narrator, or if instead, they explore their own anxious doubts and the trickles of surrealism that arrive with every floor.
-
-- Angus K [Why The Long Face?](https://angusk-rmit.github.io/twine-final-projectv3/)
-  
-Description: Being diagnosed with a mysterious disease, you find out you only have four days
-left before you are turned into a horse. You will explore how you spend your last days while also
-battling ideas of what is important to you and what it means to have lived a good life.
 
 - Luke M - [Insomnomania](https://lukewmoroney.github.io/digital-writing-twine/)
 
@@ -43,36 +29,6 @@ around a surrealist representation of loss, experienced through the lens of an
 insomniac protagonist. Set in Utrecht, Netherlands the unnamed, potentially
 unreliable, narrator passes between reality and unreality as figures, sounds and
 colours recur, leading him through his psyche to self-actualisation.
-
-- Zoe T [ghosts](https://zoeniamh.github.io/digital-writing-twine/)
-
-Ghosts is a reflective poem that centres around grief, memory and the
-invisible strings that tie us to those we’ve lost. The piece is set against a Tasmanian
-backdrop, and explores how absence can feel strangely present, in both everyday
-moments and familiar places. The piece plays with the idea of ghost not being the classic supernatural beings, but
-more as a sort of emotional imprint, something that lingers in landscapes, gestures and
-inherited stories.
-
-#### Coming of Age
-- Upani P – [Through the Front Door](https://upanicp.github.io/major-project/)
-
-Lead your character through their childhood, where they will confront elements of their past. The character – someone who is disillusioned by adulthood – reconciles their romanticised past with their mediocre present. Explores themes of nostalgia, coming-of-age, and a person and place being haunted by their past.
-
-- Emily V - [On Vanity and the Art of Comparison](https://emilyvandenbroeck.github.io/on-vanity-comparison/)
-
-On Vanity and the Art of Comparison is a personal exploration of the concept of vanity and comparison in a world in which identity extends beyond that of the physical world and into the digital; a world in which your identity is often assumed upon by style or body type or facial features. It asks whether it is possible to reject the idea of vanity in such a society, and highlights the average young woman’s experience of vanity from childhood through to early adulthood. How does one’s perception of self-change throughout these integral life stages? You will be taken through three life stages, and how you choose to experience each of these is up to you.                                         
-
-- Lani S - [Reflection](https://lanisalt.github.io/assignment-two/) *Site under construction as of 19/6*
-
-My piece, ‘Reflections’ is an anthology of who I am as a person. The final work includes poems, social media posts, diary entries and other bits of intentional and unintentional bits of writing from around the time I collected them, which is meant to match the bricolage aspect of the mirror and contextualise each artifact. You progress through the story by clicking on the different images on the mirror, ‘unlocking’ more writing as you go.
-
--Maya D - [Incandescent](https://mazpod44.github.io/digital-writing-twine/)
-
-Incandescent follows the inner dialogue of the narrator on their journey of belonging and
-transformation. Through poignant language, the poem explores impermanence, longing and
-the desire for true care. The piece symbolises both isolation and hope, a space where the
-narrator yearns to become something beautiful, even if fleeting. This work invites reflection
-on the fragility of existence and the quiet, aching search for meaning and connection.
 
 #### Travel/Personal Archive
 - Marley A - [The Tank](https://marleyabbott.github.io/the-tank-1/)
@@ -87,17 +43,3 @@ Catching Out is a creative non-fiction piece that documents an exciting journey,
 - Angelo K - [ReviewShark.com](https://angelokoulouris7.github.io/film-website-project/)
 
 A non-linear interactive fiction game focused on a film review website called ReviewShark. You play as the new moderator, put in charge of reading through multiple different reviews from unique users and deciding which you want to Feature or Delete from the website. Depending on your decisions throughout the story—such as if you choose to promote critical or subjective reviews—the website and its userbase will change accordingly, reflecting the content promoted on the site.  
-
-- Sarah C - [Tennis: A Battle of the Mind](https://sarah2361.github.io/final-twine-project/)
-
-This work follows a female character playing a final in a grand slam tournament. The character has never won a final before, and this is their opportunity to win. The different combinations and paths that the reader takes at the beginning of the story will determine whether the character wins the final or not. The intended audience for this piece is really anyone, but specifically people who have an interest in sport and even more for people who love and watch tennis.
-
-- Ruby G - [Overshadowed](https://rcgrant.itch.io/overshadowed)
-
-Follow alongside an unnamed individual, experiencing everyday obstacles that eventually lead to the individual’s life spiralling downward from the poverty line to homelessness.
-
-- Thomas M - [Directive](https://thomas-mclean.github.io/Directive-Inform-7/)
-
-Directive is an interactive short story based around an office worker looking to return one of their company’s robots to a repair shop. On their journey, they are forced to reckon with the concepts of empathy, privacy, and the bounds of one’s loyalty to their place of employment. It was written in Inform 7, and is bundled with the Quixe interpreter.
-
-- Isabella T - [Rabbit](https://bellatatts.github.io/)
