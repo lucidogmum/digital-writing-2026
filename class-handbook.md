@@ -161,7 +161,7 @@ Troubleshooting creative work and Ass 3 preparation.
 ---
 
 ## **Assessment 1: Case Study Presentation & Studio Process Documentation**  
-**Due:** Week 5 — In class & submit on Canvas (April 4)  
+**Due:** Week 5 — In class & submit on Canvas (date TBA)  
 
 ### **Submission Requirements**
 - 4–5 minute oral presentation (in class)  
@@ -223,7 +223,7 @@ Assessed on attention to detail and depth of engagement.
 ---
 
 ## **Assessment 3: Developed Creative Work, Folio & Professional Website (50%)**  
-**Due:** Canvas submission by **June 6**  
+**Due:** Canvas submission by **June 5**  
 
 ### **Submission Requirements**
 #### **1. Completed Work of Electronic Literature**
