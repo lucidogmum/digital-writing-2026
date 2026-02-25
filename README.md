@@ -3,10 +3,6 @@
 Refer to this page for week-to-week activities. The syllabus, key readings and assessment outlines can be found in the [class handbook](/class-handbook.md)  
 
 
-## Reminder - Drop-in Sessions
-
-Jenny and Lucinda will have an open drop in Teams video meeting for consultation outside class we will poll for the best time in week 1. 
-
 ## To prepare for Week 1
 
 In addition to what is on [Reading List](https://rmit.alma.exlibrisgroup.com/leganto/public/61RMIT_INST/lists/57980087760001341?auth=SAML) have a play around in the following works of E-Lit:
