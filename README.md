@@ -23,6 +23,14 @@ Familiarise yourself with the following student resources as well as the Student
   
 # Week 1 - for use in class
 
+- Required Reading
+  Hayles, N. K. (2007). *Electronic Literature: What Is It?* The Electronic Literature Organization.
+https://eliterature.org/pad/elp.html
+
+- Berens, K. I. (2020). Decolonize’ E-Literature? On Weeding the E-Lit Garden. Emergent digital literary network. https://doi.org/10.7273/SVQQ-AB68
+
+See Reading List in Canvas for optional Further reading
+
 ## Wednesday. 
 
 ### Introduction to the course, Syllabus overview 
