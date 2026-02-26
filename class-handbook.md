@@ -39,7 +39,7 @@ HTML, CSS and JS basics. Begin playing in your coding container.
   Hayles, N. K. (2007). *Electronic Literature: What Is It?* The Electronic Literature Organization.
 https://eliterature.org/pad/elp.html
 
-- Berens, K. I. (2020). Decolonize’ E-Literature? On Weeding the E-Lit Garden. Emergent digital literary network. https://doi.org/10.7273/SVQQ-AB68 
+- Flores, L. (7201). Third Generation Electronic Literature. Electronic Book Review . https://electronicbookreview.com/publications/third-generation-electronic-literature/
 
 ---
 
@@ -53,7 +53,8 @@ Continue with HTML, CSS and JS in your coding container. Deploy via GitHub pages
 - Required Reading
   Hedley, J (2024). *Digital Poesis Impulse: A Methodology of Creative Coding with GPT as Co-Pilot. TEXT 28 (1): 1–22.* . https:/​/​doi.org/​10.52086/​001c.116921.
 
----
+- Berens, K. I. (2020). Decolonize’ E-Literature? On Weeding the E-Lit Garden. Emergent digital literary network. https://doi.org/10.7273/SVQQ-AB68 
+
 
 ## **Week 3 — Programmatic & Constraint‑Based Writing**
 ### **Wednesday**   
