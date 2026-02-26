@@ -34,12 +34,12 @@ Introduction to the course and syllabus; defining digital writing; exploring key
 Assessment overview; GitHub setup; Folio creation; first swift reflection of 300 - 400 words.
 ### **Thursday**
 HTML, CSS and JS basics. Begin playing in your coding container. 
+
 - Required Reading
   Hayles, N. K. (2007). *Electronic Literature: What Is It?* The Electronic Literature Organization.
 https://eliterature.org/pad/elp.html
 
-  Flores (2019) *Third Generation Electronic Literature* .
-https://electronicbookreview.com/publications/third-generation-electronic-literature/
+- Berens, K. I. (2020). Decolonize’ E-Literature? On Weeding the E-Lit Garden. Emergent digital literary network. https://doi.org/10.7273/SVQQ-AB68 
 
 ---
 
@@ -86,7 +86,7 @@ http://www.jstor.org/stable/10.5749/j.ctttv622.9
 Case study presentations.
 
 ### **Thursday**  
-Continuation of presentations; folio refinement toward Ass 1 submission.
+Twine working with background images, scaling images, and using audio.
 
 ---
 
@@ -101,7 +101,7 @@ Complete an interactivity sketch of your creative work for Assessment 2.
 Interactivity map sharing and ideas workshop; peer feedback. Any outstadning case study presentations; 
 Scoping and scaling ideas through mapping methods; fifth swift reflection of 300 - 400 words.
 ### **Thursday**  
-Twine working with background images, scaling images, and using audio.
+Twine image maps; Bitsy and Inform7 discussion. Chose your platform to work with from here.
 
 ---
 
@@ -111,7 +111,7 @@ Workshop on visual/design elements; sharing and peer feedback.
 Platforms discussion: Twine? Web-based HTML/CSS/JS? bitsy case study - what is best for your creative idea? Continue mapping, scoping; 
 Sixth swift reflection of 300 - 400 words.
 ### **Thursday** 
-Twine image maps; Bitsy and Inform7 discussion. Chose your platform to work with from here. 
+Working on protoypes toward Ass 2 presentations 
 
 ---
 
@@ -161,7 +161,7 @@ Troubleshooting creative work and Ass 3 preparation.
 ---
 
 ## **Assessment 1: Case Study Presentation & Studio Process Documentation**  
-**Due:** Week 5 — In class & submit on Canvas (date TBA)  
+**Due:** Submit slides and link to GitHub folio to Canvas by March 27, complete in class presentation April 1.   
 
 ### **Submission Requirements**
 - 4–5 minute oral presentation (in class)  
@@ -173,7 +173,7 @@ Troubleshooting creative work and Ass 3 preparation.
 
 ### **Case Study Task**
 Choose a work of electronic literature from the Electronic Literature Collections (or negotiate an alternative with your lab leader).  
-Recommended: select the work by Week 3.
+Recommended: select the work by Week 2.
 
 Your 5‑minute presentation must:
 - Offer a clear, well-organised analysis of the work  
@@ -193,7 +193,7 @@ You will be assessed on attention to detail and depth of engagement.
 ---
 
 ## **Assessment 2: Proposal for Work of E‑Lit & Process Documentation (25%)**  
-**Due:** Week 8 — In class + Canvas (Friday May 1)  
+**Due:** Week 8 — In class + Canvas Friday May 1 **NOTE documents don't need to be submitted until after the presentation this time**
 
 ### **Submission Requirements**
 - 6–7 minute oral presentation (in class)  
