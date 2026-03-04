@@ -2,10 +2,9 @@
 
 Refer to this page for week-to-week activities. The syllabus, key readings and assessment outlines can be found in the [class handbook](/class-handbook.md)  
 
+Access the [Reading List here](https://rmit.alma.exlibrisgroup.com/leganto/public/61RMIT_INST/lists/57980087760001341?auth=SAML) 
 
-## To prepare for Week 1
-
-In addition to what is on [Reading List](https://rmit.alma.exlibrisgroup.com/leganto/public/61RMIT_INST/lists/57980087760001341?auth=SAML) have a play around in the following works of E-Lit:
+## To prepare for Week 1 have a play around in the following works of E-Lit:
 
 1. The kinetic poem ["Taroko Gorge"](https://collection.eliterature.org/3/work.html?work=taroko-gorge)
 2. The electronic poem ["The Gathering Cloud"](https://luckysoap.com/thegatheringcloud/)
