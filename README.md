@@ -88,6 +88,10 @@ Edit the `swift-reflections.md` page you just created in your digital writing fo
 - How do these tools shape the way you write (e.g., constrain or generate)?
 - What are curious about writing in the digital environment?  
 
+---
+*great to meet you all today. Any questions about the course or assignments that I didn't get to today, please follow up with Jenny tomorrow or if it is personal send us an email*
+
+---
 ## Thursday. 
 
 ### Intro to the Coding Playground
