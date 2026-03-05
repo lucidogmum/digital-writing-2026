@@ -131,6 +131,8 @@ You all created GitHub accounts in the first class. Keep your GitHub login handy
 - Connect your VS Code to your GitHub account: select the icon with your avatar/initials in VS code and click ‘add account’ -> GitHub
 
 - Download extensions that you wish to use like GitHub copilot chat, Live Server, Prettier. *Be sure not to download any extensions unless they have many millions of downloads already!* No dodgy extensions please as these can create security risks for your computer and your private info!!!
+  
+- Connect your GitHub Desktop software to your GitHub account
 
 ### Forking, cloning and publishing your version of the coding playground
 
@@ -141,11 +143,31 @@ You all created GitHub accounts in the first class. Keep your GitHub login handy
 5.	PUSH commits via GitHub online
 6.	PUBLISH via GitHub Pages
 
+### Class expectations/hopes
+
+-	Expand coding skill set to take into industry
+-	Learn about writing into digital spaces or creating video games in as many forms as possible
+-	Learn and experiment in digital mediums and e-lit
+-	Be more experimental and playful in writing, learn new medium to use in own creative life
+-	How to fit writing into digital form and expand practice
+-	Find out if I’m passionate about learning code
+-	Explore how form meets function
+-	Reverse engineer how to approach language
+-	Approach writing in new ways 
+-	Learn what the future of writing looks like
+-	Learn computer skills that will translate to industry
+-	Learn coding as this will extend knowledge learned in Writing the Expanded Field
+-	Learn about reader/user interaction and collaboration
+-	A refresher in coding
+-	Satisfy hacker fantasies from childhood that can apply to video games, interactive element
+-	Discover how to mesh books and writing with the digital
 
 
 ### Note for those who missed classes
 
-If you missed out on the first week of classes, please make sure that you have set up a GitHub account and that you follow the exercises above including Hello World (if you get lost, find a YouTube tutorial) and setting up your digital writing folio. Make sure that you're familiar with the documentation in this GitHub repository including the [class handbook](https://github.com/jennyhedley/digital-writing-2025/blob/main/class-handbook.md), and that you are up to date on the class readings. Also be sure to share your GitHub username with Jenny and Lucinda if you have not done so already.
+If you missed out on the first week of classes, please make sure that you have set up a GitHub account and that you follow the exercises above including Hello World (if you get lost, find a YouTube tutorial) and setting up your digital writing folio. Make sure that you have installed VS Code and GitHub Desktop on your computer and that you have linked both to your GitHub account. Fork and clone the coding playground so that you are ready to code at the start of next class.
+
+Make sure that you're familiar with the documentation in this GitHub repository including the [class handbook](https://github.com/jennyhedley/digital-writing-2025/blob/main/class-handbook.md), and that you are up to date on the class readings. Also be sure to share your GitHub username with Jenny and Lucinda if you have not done so already.
 
 ---
 
