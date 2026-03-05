@@ -94,13 +94,56 @@ Edit the `swift-reflections.md` page you just created in your digital writing fo
 ---
 ## Thursday. 
 
-### Intro to the Coding Playground
+### Links from Jenny’s Digital Writing lecture
 
-<!--- Create an account on XXXX using your GitHub login credentials 
- Remix this code: [https://glitch.com/edit/#!/dw-coding-playground](https://glitch.com/edit/#!/dw-coding-playground)-->
+Undergraduate (2021) works:
+- [Compendium of Failed Relationships - My Assessment 3 project for DW](http://cordite.org.au/poetry/game/a-compendium-of-failed-relationships/)
+- [When ur gone](http://cordite.org.au/poetry/notheme-11/ill-love-u-when-ur-gone/)
+
+Honours (2022) works:
+- [‘I <3 my motherbots’ journal article](https://textjournal.scholasticahq.com/article/57766-_digital-realism_-creative-works)
+- [My Mother Bot](https://x.com/AnneBotWallace)
+- [Bot code](https://github.com/jennyhedley/archivefeverbot/tree/main)
+
+PhD works:
+- [Digital poesis impulse – already on reading list](https://textjournal.scholasticahq.com/article/116921-digital-poesis-impulse-a-methodology-of-creative-coding-with-gpt-as-co-pilot)
+- [Titleist pro v1](https://crawlspace.cool/titleist-pro-v1)
+- [The Scream](https://thesuburbanreview.com/2023/new-media/the-scream-jenny-hedley/)
+- [Lonely Girl Phenomenology](http://cordite.org.au/essays/a-lonely-girl-phenomenology/)
+
+Collab research lab project:
+- [Digital Divinations](https://1deeu2do.dora.run/)
+
+Current investigation – training a small language model on my own writing (look for the accompanying blog post on Southerly next Monday):
+- [GitHub code](https://github.com/jennyhedley/phi2-training/tree/main)
+
+## Intro to the Coding Playground
+
+### Setting up our coding environment to work with the *coding playground that is required for assessment*
+
+Do yourselves a favour and come to class to keep up with the coding. If you code along during class you will not have to do any coding on the coding playground outside of class!
+
+You all created GitHub accounts in the first class. Keep your GitHub login handy as it will work for multiple login purposes across platforms.
+- [Download GitHub desktop – choose your correct OS](https://desktop.github.com/download/)
+
+- [Download Visual Studio code – choose your correct OS](https://code.visualstudio.com/download) 
+
+- Connect your VS Code to your GitHub account: select the icon with your avatar/initials in VS code and click ‘add account’ -> GitHub
+
+- Download extensions that you wish to use like GitHub copilot chat, Live Server, Prettier. *Be sure not to download any extensions unless they have many millions of downloads already!* No dodgy extensions please as these can create security risks for your computer and your private info!!!
+
+### Forking, cloning and publishing your version of the coding playground
+
+1.	FORK [this repo](https://github.com/jennyhedley/dw-coding-playground)
+2.	CLONE this forked repo via GitHub Desktop – be sure to SAVE it to a `digital-writing` folder ON YOUR DESKTOP to be used throughout semester – if it’s not on your desktop and easy to find, confusion will likely ensue
+3.	OPEN in VS Code (via GitHub Desktop prompt) and make edits
+4.	COMMIT to GitHub via GitHub Desktop
+5.	PUSH commits via GitHub online
+6.	PUBLISH via GitHub Pages
 
 
 
+### Note for those who missed classes
 
 If you missed out on the first week of classes, please make sure that you have set up a GitHub account and that you follow the exercises above including Hello World (if you get lost, find a YouTube tutorial) and setting up your digital writing folio. Make sure that you're familiar with the documentation in this GitHub repository including the [class handbook](https://github.com/jennyhedley/digital-writing-2025/blob/main/class-handbook.md), and that you are up to date on the class readings. Also be sure to share your GitHub username with Jenny and Lucinda if you have not done so already.
 
