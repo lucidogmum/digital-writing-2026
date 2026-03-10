@@ -217,16 +217,19 @@ This semester you will also be asked to complete a [Gen-AI declaration form](htt
 
 ### Ass 1 explainer & FAQ ###
 
-[Assessment 1](https://github.com/lucidogmum/digital-writing-2026/blob/main/class-handbook.md#digital-writing-2026--assessment-guide) asks you to choose and analyse a work of electronic literature from the [The Electronic Literature Collections] (https://collection.eliterature.org/)
+[Assessment 1](https://github.com/lucidogmum/digital-writing-2026/blob/main/class-handbook.md#digital-writing-2026--assessment-guide) asks you to choose and analyse a work of electronic literature from the [The Electronic Literature Collections](https://collection.eliterature.org/)
 
 Volume 1 (October 2006)
 Volume 2 (February 2011)
 Volume 3 (February 2016)
 Volume 4 (June 2022)
 
-The works in these volumes are very diverse and represent the development and evolution of the field as well as technological changes since the first collection 20 years ago. It is important to contextualise the work that you choose for your case study within the Required Readings provided, and you will see this research and analysis is part of the assessment criteria. Below are some prompts to help you get into this. 
+The works in these volumes are very diverse and represent the development of the field as well as technological changes since the first collection 20 years ago. Begin reviewing the works in these volumes with the intetion of choosing your case study by end of class tomorrow. If you would like to choose a work to analyse that is not part of these volumes you must have it ok'd by Lucinda and/or Jenny. 
 
-### swift reflection - begin in class finish after class. Consider all questions as part of your wider research toward Ass 1 and respond in writing to one as part of Studio Process Documentation:
+It is important to contextualise the work within the Required Readings provided. You will see research and analysis is part of the assessment criteria. Below are some prompts to help you get into this. 
+
+### swift reflection - 15 mins (begin in class complete afterward)
+*Consider all prompts below as part of your wider research toward Ass 1 but respond in writing to one for Studio Process Documentation:*
 
 “Readers come to digital work with expectations formed by print, including extensive and deep tacit knowledge of letter forms, print conventions, and print literary modes. Of necessity, electronic literature must build on these expectations even as it modifies and transforms them. At the same time, because electronic literature is normally created and performed within a context of networked and programmable media, it is also informed by the powerhouses of contemporary culture, particularly computer games, films, animations, digital arts, graphic design, and electronic visual culture. In this sense electronic literature is a "hopeful monster" (as geneticists call adaptive mutations) composed of parts taken from diverse traditions that may not always fit neatly together…Electronic literature tests the boundaries of the literary and challenges us to re-think our assumptions of what literature can do and be.” 
 - Hayles, (2007) ‘E-Lit: what is it?’
