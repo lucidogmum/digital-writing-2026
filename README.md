@@ -171,5 +171,85 @@ Make sure that you're familiar with the documentation in this GitHub repository 
 
 ---
 
+# Week 2 - for use in class
+
+- Required Reading
+Hedley, J. (2024). Digital poesis impulse: A methodology of creative coding with GPT as co-pilot. TEXT, 28(1). https://doi.org/10.52086/001c.116921
+
+Berens, K. I. (2020). Decolonize’ E-Literature? On Weeding the E-Lit Garden. Emergent digital literary network. https://doi.org/10.7273/SVQQ-AB68
+
+See Reading List in Canvas for optional Further reading
+
+## Wednesday. 
+
+### Approaching experimentation
+
+“In the field of digital poetics, play is queen.” Hedley (2024)
+
+Class discussion: Experimentation and iteration (trying things, reflecting, adjusting and improving) is a key assessment criteria for Ass 2 and 3. Why do writers experiment? Do you have any favourite examples?
+
+Case studies: in one of this week's readings Jenny suggests "three impulses to digital poesis" with the following case studies including some of her own works:
+
+**Where there is a story told in data (including archives)** 
+- ['Island Layer' by Hannah Jenkins](https://thesuburbanreview.com/2023/new-media/hannah-jenkins-island-layer/)
+- [Compendium of Failed Relationships by Jenny Hedley](http://cordite.org.au/poetry/game/a-compendium-of-failed-relationships/)
+  
+**In forms and language that reflect the digital vernacular**
+- [what even ru? by Rae White](https://overland.org.au/previous-issues/issue-230/poetry-prize-rae-white/) the work that inspired Jenny's interactive piece [i’ll <3 u when ur gone](http://cordite.org.au/poetry/notheme-11/ill-love-u-when-ur-gone/)
+- [Variations on the Word Ghost by Shastra Deo](https://www.liminalmag.com/glitch/variations-on-the-word-ghost)
+  
+**From a desire to experiment and play**
+- [AVENGE HER AT ALL COSTS by La Fielding](https://crawlspace.cool/avenge-her-at-all-costs)
+- and many other works in [Crawl__space journal](https://crawlspace.cool/)
+
+*Explore and then in small groups discuss*: 
+
+- How is each piece experimental? What is it testing or trying out? 
+- What is your personal response - do you like it? why/why not?
+
+### Our AI assistants ###
+The other aspect of this reading outlines a method for using AI as an assistant in designing and coding a work of E-Lit. What do you think of this approach to working with Gen-AI? And how does this usage fit with the [Creative Writing and Literary Studies  Position Statement on AI Generated Content](https://rmit.instructure.com/courses/37758/pages/ai-gc-position-statement?module_item_id=7144225) 
+
+This semester you will also be asked to complete a [Gen-AI declaration form](https://rmit.instructure.com/courses/161995/pages/ai-declaration-document?module_item_id=8306920) when submitting assessments. Please take a look and familiarise yourself with the correct methods for referencing any use of Gen-AI. 
+
+
+### 5 min Break
+
+### Ass 1 explainer & FAQ ###
+
+[Assessment 1](https://github.com/lucidogmum/digital-writing-2026/blob/main/class-handbook.md#digital-writing-2026--assessment-guide) asks you to choose and analyse a work of electronic literature from the [The Electronic Literature Collections] (https://collection.eliterature.org/)
+
+Volume 1 (October 2006)
+Volume 2 (February 2011)
+Volume 3 (February 2016)
+Volume 4 (June 2022)
+
+The works in these volumes are very diverse and represent the development and evolution of the field as well as technological changes since the first collection 20 years ago. It is important to contextualise the work that you choose for your case study within the Required Readings provided, and you will see this research and analysis is part of the assessment criteria. Below are some prompts to help you get into this. 
+
+### swift reflection - begin in class finish after class. Consider all questions as part of your wider research toward Ass 1 and respond in writing to one as part of Studio Process Documentation:
+
+“Readers come to digital work with expectations formed by print, including extensive and deep tacit knowledge of letter forms, print conventions, and print literary modes. Of necessity, electronic literature must build on these expectations even as it modifies and transforms them. At the same time, because electronic literature is normally created and performed within a context of networked and programmable media, it is also informed by the powerhouses of contemporary culture, particularly computer games, films, animations, digital arts, graphic design, and electronic visual culture. In this sense electronic literature is a "hopeful monster" (as geneticists call adaptive mutations) composed of parts taken from diverse traditions that may not always fit neatly together…Electronic literature tests the boundaries of the literary and challenges us to re-think our assumptions of what literature can do and be.” 
+- Hayles, (2007) ‘E-Lit: what is it?’
+
+ Q: What are some of the constraints and tensions that Hayles notes have motivated writers to experiment in the field of E-Lit (there are many!) 
+
+
+“This is where we can see a generational age difference in terms of the authorship of third-generation works of e-lit. Many ELO members, such as myself, grew up at a time where we could see the digital materiality sharply. Most 3rd generation e-lit writers are a younger generation who have naturalized what was experimental to us, and even though the work they create may be naïve and disconnected from the artistic and literary traditions of the past, they were more directly formed by digital culture.” 
+- Flores (2019) ‘Third Generation Electronic Literature’  
+
+Q: What defines the ‘Three Generations’ of E-Lit that Flores refers to? 
+
+“While I am persuaded by Leonardo Flores’s argument that there’s a wealth of digital creative production among people who have never heard of ELO nor studied e-lit in college, I wonder if the radical expansion of e-lit’s aesthetic from difficulty to ease violates one of e-literature’s founding principles: that to read e-lit requires “non-trivial” effort, whether that effort is physical interaction and/or cognitive complexity? This 1997 definition from Espen Aarseth’s Cybertexts, and N.Katherine Hayles’ definition of technotexts (2002) describe the mechanics by which e-lit artists align its practices with modernist poetry, not populist bestsellers. Our field remains committed to self-conscious reading practices, where the interaction between a work’s physical properties and its semantic strategies engage in “reflexive loops” (Hayles). Stephanie Strickland suggests that “reading e-lit requires taking an aesthetic attitude toward the textscape as an object that stimulates the sense. To read e-works is to operate or play them (more like an instrument than a game, though some e-works have gamelike elements)” (2009). An experimental, hand-built interface is very different from a pre-packaged, self-evident social media interface.” 
+- Berens (2019) ‘E-Lit's #1 Hit: Is Instagram Poetry E-literature?’
+
+Q: Do you agree with Beren’s argument that Instagram poetry is “indivisible from the surveillance capitalism infrastructure of social media”
+Also: What does the term ‘non-trivial effort’ mean when it comes to E-Lit? 
+
+---
+## Thursday. 
+
+
+
+
 
 
