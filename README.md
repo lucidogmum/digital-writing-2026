@@ -249,6 +249,10 @@ Q: Do you agree with Beren’s argument that Instagram poetry is “indivisible 
 Also: What does the term ‘non-trivial effort’ mean when it comes to E-Lit? 
 
 ---
+### Need help with your code learning? Don't stress! 
+[Free Code Camp](https://www.freecodecamp.org/learn) provides really good short tutorials and explainers that will be very helpful if you are feeling lost in the code. For instance [basic HTML](https://www.freecodecamp.org/learn/responsive-web-design-v9/review-basic-html/basic-html-review) helps you remember the terminology, or you may need to review [What is CSS?](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-what-is-css/what-is-css). This will help you learn the basic terminlogy and function and from here you can get the help you might need from Copilot. AIs often get things wrong so you must ensure you know the code lanugage to work effectively with these agents. WE will talk more about AI in Week 3.  
+
+---
 ## Thursday. 
 
 
