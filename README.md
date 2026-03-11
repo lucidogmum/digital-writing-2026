@@ -114,7 +114,8 @@ PhD works:
 Collab research lab project:
 - [Digital Divinations](https://1deeu2do.dora.run/)
 
-Current investigation – training a small language model on my own writing (look for the accompanying blog post on Southerly next Monday):
+Four-part blog series for Southerly on training a small language model on my own writing: 
+- [Part 1: Down with copyright-infringing LLMs—long live the small language model](https://southerlylitmag.com.au/down-with-copyright-infringing-llms-long-live-the-small-language-model/)
 - [GitHub code](https://github.com/jennyhedley/phi2-training/tree/main)
 
 ## Intro to the Coding Playground
