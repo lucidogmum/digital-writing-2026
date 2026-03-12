@@ -307,4 +307,3 @@ In the syllabus we planned to work in the coding playground another week, but ev
 To continue learning code, I'm bumping up the work on our author websites to next week. You don't need to prepare anything in advance as there will be plenty of time in class, but if you like you might write your author bio in advance and gather images that you would like on the site (e.g., author photo or avatar image or creative images). 
 
 The author website is a required element in terms of assessment. If you come to class you will be able to complete this component in class. You will not have to work on it outside of class unless you are absent.
-
