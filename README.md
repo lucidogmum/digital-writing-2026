@@ -263,6 +263,18 @@ In terms of AI and ethics, consider where your own boundaries are in terms of wh
 
 As a class, we will discuss what thoughts emerge from reading the first installment of Jenny's blog series, in terms of ethics and AI. We will then spend 10 minutes writing a short reflection in our GitHub folios.
 
+### Continued work on the coding playground (required for assessment)
+
+Your assessment requires that YOUR version of the coding playground be saved to your own GitHub repository and published through GitHub pages. You are NOT expected to have a beautiful, aesthetically cohesive playground - this is a site for learning code and styling and can therefore be as ugly and messy as you like. The key thing we are looking for is that you are attempting (and sometimes succeeding) at working with CSS, HTML and JavaScript code. If one of the sections breaks, do not stress or spend hours fixing it. If you've come to class and followed the instructions as best you can, you will have done enough work on this. If you have not come to class, please make sure you have made the following changes to the code that we did today (and last Thursday):
+
+- Change the title and the byline, plus style the title card to your own background or plain background
+- For the text message alerts, change the placeholder text and also change the various alerts in the `script.js` file
+- Add at least one of you own images (or a stock) image to the `img` file folder (you can drag and drop it into the `digital-writing/dw-coding-playground/img` file folder that's on your desktop
+- Change the text on the phone 'notes' card and add the new image
+- Edit the text message conversation by copy pasting and editing the green and blue text 'bubbles'
+- For the dropdown menu, replace the title and also replace the description of the dropdown menu and edit at least two of the selected options, plus change the results in the `script.js` file
+- TBC....
+
 
 
 
