@@ -114,10 +114,6 @@ PhD works:
 Collab research lab project:
 - [Digital Divinations](https://1deeu2do.dora.run/)
 
-Four-part blog series for Southerly on training a small language model on my own writing: 
-- [Part 1: Down with copyright-infringing LLMs—long live the small language model](https://southerlylitmag.com.au/down-with-copyright-infringing-llms-long-live-the-small-language-model/)
-- [GitHub code](https://github.com/jennyhedley/phi2-training/tree/main)
-
 ## Intro to the Coding Playground
 
 ### Setting up our coding environment to work with the *coding playground that is required for assessment*
@@ -251,10 +247,21 @@ Also: What does the term ‘non-trivial effort’ mean when it comes to E-Lit?
 
 ---
 ### Need help with your code learning? Don't stress! 
-[Free Code Camp](https://www.freecodecamp.org/learn) provides really good short tutorials and explainers that will be very helpful if you are feeling lost in the code. For instance [basic HTML](https://www.freecodecamp.org/learn/responsive-web-design-v9/review-basic-html/basic-html-review) helps you remember the terminology, or you may need to review [What is CSS?](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-what-is-css/what-is-css). This will help you learn the basic terminlogy and function and from here you can get the help you might need from Copilot. AIs often get things wrong so you must ensure you know the code lanugage to work effectively with these agents. WE will talk more about AI in Week 3.  
+[Free Code Camp](https://www.freecodecamp.org/learn) provides really good short tutorials and explainers that will be very helpful if you are feeling lost in the code. For instance [basic HTML](https://www.freecodecamp.org/learn/responsive-web-design-v9/review-basic-html/basic-html-review) helps you remember the terminology, or you may need to review [What is CSS?](https://www.freecodecamp.org/learn/responsive-web-design-v9/lecture-what-is-css/what-is-css). This will help you learn the basic terminlogy and function and from here you can get the help you might need from Copilot. AIs often get things wrong so you must ensure you know the code language to work effectively with these agents. WE will talk more about AI in Week 3.  
 
 ---
-## Thursday. 
+## Thursday
+
+We started by looking at the first of Jenny's four-part blog series for Southerly (on training a small language model on her writing) as a way to spark discussions of ethics around usage of AI:
+
+- [Part 1: Down with copyright-infringing LLMs—long live the small language model](https://southerlylitmag.com.au/down-with-copyright-infringing-llms-long-live-the-small-language-model/)
+- [GitHub code](https://github.com/jennyhedley/phi2-training/tree/main)
+
+### Discussion and reflection
+
+In terms of AI and ethics, consider where your own boundaries are in terms of what is unacceptable or acceptable use of AI. What do you see as potential ethical use-cases of AI (e.g., for research, for furthering open-source knowledge, for testing new areas of learning)? 
+
+As a class, we will discuss what thoughts emerge from reading the first installment of Jenny's blog series, in terms of ethics and AI. We will then spend 8 minutes writing a short reflection in our GitHub folios.
 
 
 
