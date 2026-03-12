@@ -285,5 +285,26 @@ If you missed class today, ask your classmates for help filling you in on anythi
 
 Jenny has collected the addresses of the GitHub repositories for all Digital Writers in attendance this Thursday. If you were absent, email your GitHub username to Jenny/Lucinda.
 
--[Danae](https://github.com/danaecox)
+- [Danae](https://github.com/danaecox)
+- [Ben](https://github.com/dragonmaster420)
+- [Josh](https://github.com/joshswonderfulhub)
+- [Sophia](https://github.com/sophiaanastasiadis)
+- [Bailey](https://github.com/bailey523)
+- [Daniel](https://github.com/thedanielv1)
+- [Crislin](https://github.com/cris-rose)
+- [Amelia](https://github.com/ameliaaa-fink)
+- [Madeline](https://github.com/madstar246)
+- [Al](https://github.com/ahempem)
+- [Jimmy](https://github.com/jimmybutterfield)
+- [Jack](https://github.com/pisnisprinse)
+- [Sam](https://github.com/stwilly)
+- [Ryu](https://github.com/ryu-ichii)
+
+### Note re next Thursday: Author websites!
+
+In the syllabus we planned to work in the coding playground another week, but everyone in attendance today was focused enough that we got through all of the work we needed to do on the coding playground.
+
+To continue learning code, I'm bumping up the work on our author websites to next week. You don't need to prepare anything in advance as there will be plenty of time in class, but if you like you might write your author bio in advance and gather images that you would like on the site (e.g., author photo or avatar image or creative images). 
+
+The author website is a required element in terms of assessment. If you come to class you will be able to complete this component in class. You will not have to work on it outside of class unless you are absent.
 
