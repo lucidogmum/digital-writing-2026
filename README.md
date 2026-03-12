@@ -268,15 +268,22 @@ As a class, we will discuss what thoughts emerge from reading the first installm
 Your assessment requires that YOUR version of the coding playground be saved to your own GitHub repository and published through GitHub pages. You are NOT expected to have a beautiful, aesthetically cohesive playground - this is a site for learning code and styling and can therefore be as ugly and messy as you like. The key thing we are looking for is that you are attempting (and sometimes succeeding) at working with CSS, HTML and JavaScript code. If one of the sections breaks, do not stress or spend hours fixing it. If you've come to class and followed the instructions as best you can, you will have done enough work on this. If you have not come to class, please make sure you have made the following changes to the code that we did today (and last Thursday):
 
 - Change the title and the byline, plus style the title card to your own background or plain background
+- Add at least one new set of fonts from Google fonts and apply the new font to styling at least one text area
 - For the text message alerts, change the placeholder text and also change the various alerts in the `script.js` file
 - Add at least one of you own images (or a stock) image to the `img` file folder (you can drag and drop it into the `digital-writing/dw-coding-playground/img` file folder that's on your desktop
 - Change the text on the phone 'notes' card and add the new image
 - Edit the text message conversation by copy pasting and editing the green and blue text 'bubbles'
 - For the dropdown menu, replace the title and also replace the description of the dropdown menu and edit at least two of the selected options, plus change the results in the `script.js` file
-- TBC....
+- For the Garfield/Haiku poem, change the five and seven syllable constants/variables in the arrays in the `script.js` file and then change the placeholder text in the `index.html` file; you can also change the font and background colour in the `style.css` file
+- For the 'Searching' function, change at least the A, B and C results in the `script.js` file
+- For the Taroko Gorge-based poem, change the arrays of subjects, verbs and objects in the `script.js` file; also change the background image and font colour in the `style.css` file
+
+If you missed class today, ask your classmates for help filling you in on anything you don't understand. Your classmates will be your greatest help as weeks go on (beyond Claude or GPT), especially as you can trade tips and tricks for what works and what doesn't. 
 
 
+### Class GitHub repositories
 
+Jenny has collected the addresses of the GitHub repositories for all Digital Writers in attendance this Thursday. If you were absent, email your GitHub username to Jenny/Lucinda.
 
-
+-[Danae](https://github.com/danaecox)
 
