@@ -257,11 +257,11 @@ We started by looking at the first of Jenny's four-part blog series for Southerl
 - [Part 1: Down with copyright-infringing LLMs—long live the small language model](https://southerlylitmag.com.au/down-with-copyright-infringing-llms-long-live-the-small-language-model/)
 - [GitHub code](https://github.com/jennyhedley/phi2-training/tree/main)
 
-### Discussion and reflection
+### Discussion and reflection: AI and Ethics (~150 words)
 
-In terms of AI and ethics, consider where your own boundaries are in terms of what is unacceptable or acceptable use of AI. What do you see as potential ethical use-cases of AI (e.g., for research, for furthering open-source knowledge, for testing new areas of learning)? 
+In terms of AI and ethics, consider where your own boundaries are in terms of what is unacceptable or acceptable use of AI. What do you see as potential ethical use-cases of AI (e.g., for research, for furthering open-source knowledge, for testing new areas of learning)? What are your hopes for the future of AI?
 
-As a class, we will discuss what thoughts emerge from reading the first installment of Jenny's blog series, in terms of ethics and AI. We will then spend 8 minutes writing a short reflection in our GitHub folios.
+As a class, we will discuss what thoughts emerge from reading the first installment of Jenny's blog series, in terms of ethics and AI. We will then spend 10 minutes writing a short reflection in our GitHub folios.
 
 
 
