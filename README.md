@@ -321,13 +321,33 @@ The author website is a required element in terms of assessment. If you come to 
 
 "Instapoetry is definitely a #1 hit. But is it e-literature?" (Berens 2019)
 
-Class discussion: Can you point to any examples of Instagram Poetry? Do you follow any IG poets? Have any of their books? Drawing on the readings and research you are now doing toward Assessment 1 Case Study Analysis, what are your thoughts on this question posed by Berens?
+**Class discussion**: Can you point to any examples of Instagram Poetry? Do you follow any IG poets? Have any of their books? Drawing on the readings and research you are now doing toward Assessment 1 Case Study Analysis, what are your thoughts on this question posed by Berens?
 
-Case Study comparison: Mountford's 'second generation' work of programmatic poetry ["Taroko Gorge"](https://collection.eliterature.org/3/work.html?work=taroko-gorge)
+Berens discusses the digital politics of third-generation E-Lit using the terms "post-Web, walled-garden engagement" and "the black-boxed code" that undergirds 3rd generation e-lit. What is your understanding of these terms? 
+
+*Check out this project/former course from the **School for Poetic Computation** - [Solidarity Infrastructures](https://sfpc.study/projects/solidarity-infrastructures-web). This is one of many cool things offered. You may wish to apply in future!
+
+**Case Study**: Mountford's 'second generation' work of programmatic poetry ["Taroko Gorge"](https://collection.eliterature.org/3/work.html?work=taroko-gorge)
 
 - In small groups examine this work and at least one remix. What is the grammatical pattern that is repeated in this poem?
 - Inspect the source code. Can you understand how javascript has been applied here and how other writers have used it in their remixes? 
 
 ### 5 min Break
+
+Oulipo, dada and legacy of 20th century literary avant-gardes
+
+- In his book *Digital Poetics: Hypertext, Visual-Kinetic Text and Writing in Programmable Media*, Glazier argues that electronic literature is best understood as a continuation of experimental print literature" (Hayles 2007)
+
+Many progammatic poets acknolwedge their debt to experimental movements from the 20th century such as [Oulipo](https://en.wikipedia.org/wiki/Oulipo) and [dada](https://en.wikipedia.org/wiki/Dada)
+
+- Individually or in small groups take a look at how well famous [dadaist](https://writing.upenn.edu/~afilreis/88v/tzara.html)  
+and [oulipo](http://www.spoonbill.org/n+7/) experiements translate into computational practice.
+
+**COMPLETE the exercise below and the swift reflection FOR ASSESSMENT 1 PROCESS DOCUMENTATION**<br>
+
+Fork this simple text reassembler based on Tristan Tzara's "To Make a Dadaist Poem" [from the repo on Jenny's GitHub](https://github.com/jennyhedley/dadaremix) can you create your own dadaist remix using this code?  
+
+### swift reflection 
+Having considered Berens' critique of Instgram poetry, now read this excellent essay [Closer to the Metal](https://crawlspace.cool/closer-to-the-metal) by Caleb Triscari. Reflect on your own relationship to the ubiquitous digital platforms of daily life. How do you currenly position yourself in relation to technology in your creative writing pratice? 
 
 
