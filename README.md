@@ -75,14 +75,15 @@ When writing in your folio you will use the plaintext formatting code called **m
 
 On the example digital writing folio click on the "README.md" and then the CODE tab. On the far right you should see a button that looks like "<>". Select that button to see the **markdown** formatting tags on the page. You can follow this technique for all the pages to see the formatting used. 
 
-### swift-reflection - 15 mins
+### swift-reflection - 15 mins *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION
 Edit the `swift-reflections.md` page you just created in your digital writing folio and respond to these questions: 
 
 - What makes a work a piece E-Literature?
 - Of the key examples above, which did you like most and why? 
 - What do you expect from this class? What would you like to be better at by the end of semester? 
 
-### final task (can do after class): edit `README.md` in your new folio. Add a biographical note by answering the following questions:
+### final task (can do after class): *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION
+Edit `README.md` in your new folio. Add a biographical note by answering the following questions:
 - What types of writing do you do (e.g. fiction, nonfiction, poetry)?
 - What tools (or techniques) do you use to write? Why do you use them?
 - How do these tools shape the way you write (e.g., constrain or generate)?
@@ -116,7 +117,7 @@ Collab research lab project:
 
 ## Intro to the Coding Playground
 
-### Setting up our coding environment to work with the *coding playground that is required for assessment*
+### Setting up our coding environment to work with the *coding playground that is required for assessment* 
 
 Do yourselves a favour and come to class to keep up with the coding. If you code along during class you will not have to do any coding on the coding playground outside of class!
 
@@ -160,9 +161,9 @@ You all created GitHub accounts in the first class. Keep your GitHub login handy
 -	Discover how to mesh books and writing with the digital
 
 
-### Note for those who missed classes
+### Note for those who missed classes on what to *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION*
 
-If you missed out on the first week of classes, please make sure that you have set up a GitHub account and that you follow the exercises above including Hello World (if you get lost, find a YouTube tutorial) and setting up your digital writing folio. Make sure that you have installed VS Code and GitHub Desktop on your computer and that you have linked both to your GitHub account. Fork and clone the coding playground so that you are ready to code at the start of next class.
+If you missed out on the first week of classes, please make sure that you have set up a GitHub account and that you follow the exercises above including Hello World (if you get lost, find a YouTube tutorial) and setting up your digital writing folio. Make sure that you have installed VS Code and GitHub Desktop on your computer and that you have linked both to your GitHub account. Fork and clone the coding playground so that you are ready to code at the start of next class. 
 
 Make sure that you're familiar with the documentation in this GitHub repository including the [class handbook](https://github.com/jennyhedley/digital-writing-2025/blob/main/class-handbook.md), and that you are up to date on the class readings. Also be sure to share your GitHub username with Jenny and Lucinda if you have not done so already.
 
@@ -225,8 +226,8 @@ The works in these volumes are very diverse and represent the development of the
 
 It is important to contextualise the work within the Required Readings provided. You will see research and analysis is part of the assessment criteria. Below are some prompts to help you get into this. 
 
-### swift reflection - 15 mins (begin in class complete afterward)
-*Consider all prompts below as part of your wider research toward Ass 1 but respond in writing to one for Studio Process Documentation:*
+### swift reflection - 15 mins **COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION**
+Consider **all** prompts below as part of your wider research toward Ass 1 but respond in writing to **one** for Studio Process Documentation:
 
 “Readers come to digital work with expectations formed by print, including extensive and deep tacit knowledge of letter forms, print conventions, and print literary modes. Of necessity, electronic literature must build on these expectations even as it modifies and transforms them. At the same time, because electronic literature is normally created and performed within a context of networked and programmable media, it is also informed by the powerhouses of contemporary culture, particularly computer games, films, animations, digital arts, graphic design, and electronic visual culture. In this sense electronic literature is a "hopeful monster" (as geneticists call adaptive mutations) composed of parts taken from diverse traditions that may not always fit neatly together…Electronic literature tests the boundaries of the literary and challenges us to re-think our assumptions of what literature can do and be.” 
 - Hayles, (2007) ‘E-Lit: what is it?’
@@ -257,13 +258,13 @@ We started by looking at the first of Jenny's four-part blog series for Southerl
 - [Part 1: Down with copyright-infringing LLMs—long live the small language model](https://southerlylitmag.com.au/down-with-copyright-infringing-llms-long-live-the-small-language-model/)
 - [GitHub code](https://github.com/jennyhedley/phi2-training/tree/main)
 
-### Discussion and reflection: AI and Ethics (~150 words)
+### Discussion and reflection: AI and Ethics (~150 words) *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION
 
 In terms of AI and ethics, consider where your own boundaries are in terms of what is unacceptable or acceptable use of AI. What do you see as potential ethical use-cases of AI (e.g., for research, for furthering open-source knowledge, for testing new areas of learning)? What are your hopes for the future of AI?
 
 As a class, we will discuss what thoughts emerge from reading the first installment of Jenny's blog series, in terms of ethics and AI. We will then spend 10 minutes writing a short reflection in our GitHub folios.
 
-### Continued work on the coding playground (required for assessment)
+### Continued work on the coding playground (required for assessment - *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION)
 
 Your assessment requires that YOUR version of the coding playground be saved to your own GitHub repository and published through GitHub pages. You are NOT expected to have a beautiful, aesthetically cohesive playground - this is a site for learning code and styling and can therefore be as ugly and messy as you like. The key thing we are looking for is that you are attempting (and sometimes succeeding) at working with CSS, HTML and JavaScript code. If one of the sections breaks, do not stress or spend hours fixing it. If you've come to class and followed the instructions as best you can, you will have done enough work on this. If you have not come to class, please make sure you have made the following changes to the code that we did today (and last Thursday):
 
@@ -307,3 +308,26 @@ In the syllabus we planned to work in the coding playground another week, but ev
 To continue learning code, I'm bumping up the work on our author websites to next week. You don't need to prepare anything in advance as there will be plenty of time in class, but if you like you might write your author bio in advance and gather images that you would like on the site (e.g., author photo or avatar image or creative images). 
 
 The author website is a required element in terms of assessment. If you come to class you will be able to complete this component in class. You will not have to work on it outside of class unless you are absent.
+
+# Week 3 - in class
+
+- Required Reading Berens (2019). E-Lit's #1 Hit: Is Instagram Poetry E-Literature? . https://electronicbookreview.com/publications/e-lits-1-hit-is-instagram-poetry-e-literature/#marginnote-def-gloss1
+
+- We will also touch on this recommended but optional futher reading - Motte, W. F. (1986). Introduction. In Warren F Motte translator. (Ed.), Oulipo : a primer of potential literature (pp. 1–22). University of Nebraska Press.  
+
+## Wednesday. 
+
+### Third‑generation electronic literature & the politics of experimentation
+
+"Instapoetry is definitely a #1 hit. But is it e-literature?" (Berens 2019)
+
+Class discussion: Can you point to any examples of Instagram Poetry? Do you follow any IG poets? Have any of their books? Drawing on the readings and research you are now doing toward Assessment 1 Case Study Analysis, what are your thoughts on this question posed by Berens?
+
+Case Study comparison: Mountford's 'second generation' work of programmatic poetry ["Taroko Gorge"](https://collection.eliterature.org/3/work.html?work=taroko-gorge)
+
+- In small groups examine this work and at least one remix. What is the grammatical pattern that is repeated in this poem?
+- Inspect the source code. Can you understand how javascript has been applied here and how other writers have used it in their remixes? 
+
+### 5 min Break
+
+
