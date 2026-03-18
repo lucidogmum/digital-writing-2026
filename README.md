@@ -292,7 +292,7 @@ Jenny has collected the addresses of the GitHub repositories for all Digital Wri
 - [Sophia](https://github.com/sophiaanastasiadis)
 - [Bailey](https://github.com/bailey523)
 - [Daniel](https://github.com/thedanielv1)
-- [Crislin](https://github.com/cris-rose)
+- [Crislin](https://github.com/crislin-rose)
 - [Amelia](https://github.com/ameliaaa-fink)
 - [Madeline](https://github.com/madstar246)
 - [Al](https://github.com/ahempem)
@@ -300,6 +300,8 @@ Jenny has collected the addresses of the GitHub repositories for all Digital Wri
 - [Jack](https://github.com/pisnisprinse)
 - [Sam](https://github.com/stwilly)
 - [Ryu](https://github.com/ryu-ichii)
+- [Marco](https://github.com/NMC-byte)
+- 
 
 ### Note re next Thursday: Author websites!
 
