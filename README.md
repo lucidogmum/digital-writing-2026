@@ -352,4 +352,11 @@ Fork this simple text reassembler based on Tristan Tzara's "To Make a Dadaist Po
 ### swift reflection 
 Having considered Berens' critique of Instgram poetry, now read this excellent essay [Closer to the Metal](https://crawlspace.cool/closer-to-the-metal) by Caleb Triscari. Reflect on your own relationship to the ubiquitous digital platforms of daily life. How do you currenly position yourself in relation to technology in your creative writing pratice? 
 
+---
+### A few extra notes on Wednesday class
+
+It was great to start talking today about the digital politics of E-Lit and he need to carve out our own spaces through learning code langauges - **we need get out of the shiny digital shopping malls delivered to us by big data** - this is why the effort of learning code is so important. Also really interesting to discuss Dada and Oulipo, methods of creative destruction and chance resonance such as cut-ups. The  parallels between the current authoritarian poltical climate and the conditions that gave birth to radical movements in 20th century is striking. On that note [Samizdat](https://en.wikipedia.org/wiki/Samizdat) is an underground publishing movement arising out from the era of Soviet repression. [Hotglue.org](https://hotglue.org) is an open source tool for "DIY web-design and Internet **samizdat**" see the [Hotglue GihHub](https://github.com/k0a1a/hotglue2) for code you might like to use on your author websites. 
+Thanks to my colleague [Dr Nancy Mauro-Flude](https://autolumi.net) who teaches into RMIT's Master of Design Futures for this tip. Nancy and I are part of the Expanded Writers Collective who co-authored the covid lockdown digital cut-up [Writing the Virus](https://ratcorner.net/wtv/draft04/index.html) 
+
+---
 
