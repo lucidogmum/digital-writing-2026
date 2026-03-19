@@ -281,6 +281,8 @@ Your assessment requires that YOUR version of the coding playground be saved to 
 
 If you missed class today, ask your classmates for help filling you in on anything you don't understand. Your classmates will be your greatest help as weeks go on (beyond Claude or GPT), especially as you can trade tips and tricks for what works and what doesn't. 
 
+We also discussed how to check that the colour contrast between text and background colour is accessible. [Accessibility resources here](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-accessibility.md).
+
 
 ### Class GitHub repositories
 
