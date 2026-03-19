@@ -1,16 +1,19 @@
 # Journals, Zines, Publications, Contests
 
+### Aus-based
 - [Cordite Poetry Review](http://cordite.org.au/) and especially their ['GAME' issue](http://cordite.org.au/content/poetry/game/)
 - [Voiceworks Online](https://www.voiceworksmag.com.au/online)
 - [The Suburban Review - New Media](https://thesuburbanreview.com/new-media/)
+- [Crawlspace](https://crawlspace.cool/)
+- [Woollahra Digital Literary Award](https://www.woollahra.nsw.gov.au/Library/Digital-literary-award)
+
+### Elsewhere
 - [The New River](https://thenewriver.us/)
 - [Taper](https://taper.badquar.to/)
 - [voidspace_](https://voidspacezine.com/)
 - [the html review](https://thehtml.review/)
-- [Crawlspace](https://crawlspace.cool/)
 - [electronic book review](https://electronicbookreview.com/)
 - [The Electronic Literature Collections](https://collection.eliterature.org/)
-- [Woollahra Digital Literary Award](https://www.woollahra.nsw.gov.au/Library/Digital-literary-award)
 
 It is always worth reaching out to online journals when they have calls for submissions. Even if they don’t currently publish electronic literature, they may like your piece enough to publish it.
 
