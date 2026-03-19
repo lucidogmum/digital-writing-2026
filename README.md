@@ -258,7 +258,7 @@ We started by looking at the first of Jenny's four-part blog series for Southerl
 - [Part 1: Down with copyright-infringing LLMs—long live the small language model](https://southerlylitmag.com.au/down-with-copyright-infringing-llms-long-live-the-small-language-model/)
 - [GitHub code](https://github.com/jennyhedley/phi2-training/tree/main)
 
-### Discussion and reflection: AI and Ethics (~150 words) *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION
+### Discussion and swift reflection: AI and Ethics (~150 words) *COMPLETE SWIFT REFLECTION FOR ASSESSMENT 1 PROCESS DOCUMENTATION
 
 In terms of AI and ethics, consider where your own boundaries are in terms of what is unacceptable or acceptable use of AI. What do you see as potential ethical use-cases of AI (e.g., for research, for furthering open-source knowledge, for testing new areas of learning)? What are your hopes for the future of AI?
 
@@ -365,7 +365,7 @@ Thanks to my colleague [Dr Nancy Mauro-Flude](https://autolumi.net) who teaches 
 
 First hour:
 
-### Discussion and reflection: The importance of documenting process (~100 words) *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION
+### Discussion and swift reflection: The importance of documenting process (~100 words) *COMPLETE SWIFT REFLECTION FOR ASSESSMENT 1 PROCESS DOCUMENTATION
 
 Read (6 minutes) and discuss Jenny's second [GenAI/'JenAI' blog post](https://southerlylitmag.com.au/to-each-author-a-mimetic-ai-model/) and then reflect upon the importance of tracking tools of making (e.g., for iterative purposes, for troubleshooting, as research capture situated in a particular time (since tech evolves so quickly), to network/pool knowledge with peers, to situate ideas in relation to the field).
 
