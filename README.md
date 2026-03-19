@@ -363,15 +363,13 @@ Thanks to my colleague [Dr Nancy Mauro-Flude](https://autolumi.net) who teaches 
 ---
 ## Thursday. 
 
-First hour:
-
 ### Discussion and swift reflection: The importance of documenting process (~100 words) *COMPLETE SWIFT REFLECTION FOR ASSESSMENT 1 PROCESS DOCUMENTATION
 
 Read (6 minutes) and discuss Jenny's second [GenAI/'JenAI' blog post](https://southerlylitmag.com.au/to-each-author-a-mimetic-ai-model/) and then reflect upon the importance of tracking tools of making (e.g., for iterative purposes, for troubleshooting, as research capture situated in a particular time (since tech evolves so quickly), to network/pool knowledge with peers, to situate ideas in relation to the field).
 
 Jen will demo how to ‘inspect’ code, show hidden messages on Crawlpage site and show how to make fake news by editing HTML.
 
-### Introducing author webistes
+### Introducing author websites
 
 We will cook at sample author websites and invite students to share any of their fav author sites.
 
@@ -386,10 +384,6 @@ We will cook at sample author websites and invite students to share any of their
 
 Discuss what goes into an author bio. Different tone for different purposes.
 
-Break 10 minutes
-
-Second hour:
-
 ### Build personal website (this is not required for Assessment 1 but is required for future assessment purposes)
 
 Begin work on personal websites to solidify HTML/CSS/JS knowledge. Publish to GitHub Pages as required for assessment.
@@ -403,12 +397,6 @@ Begin work on personal websites to solidify HTML/CSS/JS knowledge. Publish to Gi
 7.	*IMPORTANT* Claim your `username.github.io` website (GitHub gives you just one) by clicking `Settings` when you are in your repo on github.com. You will enter type your username.github.io (e.g., jennyhedley.github.io) and click `Rename`.
 8.	Make changes to the HTML/CSS/JS in VS code and then commit your changes as needed using GitHub Desktop (which should will automatically detect your updated repository).
 
-Anyone who hasn’t already finished can work in the coding playground. Jen to provide tech support.
+### Standout student example from last year
 
-Break 10 minutes
-
-Third hour:
-
-Continue work on personal websites.
-
-Q&A/troubleshooting
+Charlotte Burnett published [How to Use a Lift](https://www.voiceworksmag.com.au/all/how-to-use-a-lift) on Voiceworks. Their work stood out for the humorous tone which pairs so well with both the visual and audio aesthetics! They continued to iterate their work beyond what was handed in, adding complexity. We were impressed by the ingenuity of this piece.
