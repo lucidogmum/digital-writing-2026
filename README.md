@@ -361,4 +361,53 @@ It was great to start talking today about the digital politics of E-Lit and he n
 Thanks to my colleague [Dr Nancy Mauro-Flude](https://autolumi.net) who teaches into RMIT's Master of Design Futures for this tip. Nancy and I are part of the Expanded Writers Collective who co-authored the covid lockdown digital cut-up [Writing the Virus](https://ratcorner.net/wtv/draft04/index.html) 
 
 ---
+## Thursday. 
+
+First hour:
+
+### Discussion and reflection: The importance of documenting process (~100 words) *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION
+
+Read (6 minutes) and discuss Jenny's second [GenAI/'JenAI' blog post](https://southerlylitmag.com.au/to-each-author-a-mimetic-ai-model/) and then reflect upon the importance of tracking tools of making (e.g., for iterative purposes, for troubleshooting, as research capture situated in a particular time (since tech evolves so quickly), to network/pool knowledge with peers, to situate ideas in relation to the field).
+
+Jen will demo how to ‘inspect’ code, show hidden messages on Crawlpage site and show how to make fake news by editing HTML.
+
+### Introducing author webistes
+
+We will cook at sample author websites and invite students to share any of their fav author sites.
+
+- [Catherine Lacey](https://www.catherinelacey.com/)
+- [Hera Lindsay Bird](https://www.heralindsaybird.com/)
+- [André Dao](https://www.andredao.com/)
+- [Xanthe Dobbie](https://xanthedobbie.com/)
+- [Benjamin Laird](https://bl.id.au/)
+- [Eloise Grills](https://www.eloisegrills.com/)
+- [Beau Windon](https://www.beauwindon.com/)
+- [Melody Ellis](https://melodyellis.com/)
+
+Discuss what goes into an author bio. Different tone for different purposes.
+
+Break 10 minutes
+
+Second hour:
+
+### Build personal website (this is not required for Assessment 1 but is required for future assessment purposes)
+
+Begin work on personal websites to solidify HTML/CSS/JS knowledge. Publish to GitHub Pages as required for assessment.
+
+1.	FORK https://github.com/jennyhedley/dw-author-website
+2.	CLONE this forked repo via GitHub Desktop (***SAVE to DW DESKTOP folder to be used throughout semester)
+3.	OPEN in VS Code (via GitHub Desktop prompt) and make edits
+4.	COMMIT to GitHub via GitHub Desktop
+5.	PUSH commits via GitHub online
+6.	PUBLISH via GitHub Pages
+
+Anyone who hasn’t already finished can work in the coding playground. Jen to provide tech support.
+
+Break 10 minutes
+
+Third hour:
+
+Continue work on personal websites.
+
+Q&A/troubleshooting
 
