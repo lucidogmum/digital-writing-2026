@@ -394,12 +394,14 @@ Second hour:
 
 Begin work on personal websites to solidify HTML/CSS/JS knowledge. Publish to GitHub Pages as required for assessment.
 
-1.	FORK https://github.com/jennyhedley/dw-author-website
+1.	FORK (click the word 'fork') https://github.com/jennyhedley/dw-author-website
 2.	CLONE this forked repo via GitHub Desktop (***SAVE to DW DESKTOP folder to be used throughout semester)
 3.	OPEN in VS Code (via GitHub Desktop prompt) and make edits
 4.	COMMIT to GitHub via GitHub Desktop
 5.	PUSH commits via GitHub online
 6.	PUBLISH via GitHub Pages
+7.	*IMPORTANT* Claim your `username.github.io` website (GitHub gives you just one) by clicking `Settings` when you are in your repo on github.com. You will enter type your username.github.io (e.g., jennyhedley.github.io) and click `Rename`.
+8.	Make changes to the HTML/CSS/JS in VS code and then commit your changes as needed using GitHub Desktop (which should will automatically detect your updated repository).
 
 Anyone who hasn’t already finished can work in the coding playground. Jen to provide tech support.
 
@@ -410,4 +412,3 @@ Third hour:
 Continue work on personal websites.
 
 Q&A/troubleshooting
-
