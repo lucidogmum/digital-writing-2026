@@ -304,6 +304,7 @@ Jenny has collected the addresses of the GitHub repositories for all Digital Wri
 - [Ryu](https://github.com/ryu-ichii)
 - [Marco](https://github.com/NMC-byte)
 - [Audrey](https://github.com/lilbabytrappr)
+- [Tegan](https://github.com/teganparrish)
 
 ### Note re next Thursday: Author websites!
 
