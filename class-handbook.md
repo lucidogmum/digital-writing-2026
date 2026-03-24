@@ -80,6 +80,8 @@ Introduction to Twine and using GitHub desktop and VS Code
   Ryan, M.-L. (2006). *Toward an Interactive Narratology.* In *Avatars of Story* (NED–New edition, Vol. 17, pp. 97–125). University of Minnesota Press.
 http://www.jstor.org/stable/10.5749/j.ctttv622.9
 
+Aarseth, E. J. (1997). No Sense of an Ending: Hypertext Aesthetics. In Espen J. Aarseth 1965-, Cybertext : perspectives on ergodic literature (pp. 76–96). Johns Hopkins University Press.
+
 ---
 
 ## **Week 5 — Assessment 1 Case Study Presentations**
