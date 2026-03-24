@@ -401,3 +401,45 @@ Begin work on personal websites to solidify HTML/CSS/JS knowledge. Publish to Gi
 ### Standout student example from last year
 
 Charlotte Burnett published [How to Use a Lift](https://www.voiceworksmag.com.au/all/how-to-use-a-lift) on Voiceworks. Their work stood out for the humorous tone which pairs so well with both the visual and audio aesthetics! They continued to iterate their work beyond what was handed in, adding complexity. We were impressed by the ingenuity of this piece.
+
+---
+# Week 4 - in class
+
+Required Reading:
+- Ryan, M.-L. (2006). *Toward an Interactive Narratology.* In *Avatars of Story* (NED–New edition, Vol. 17, pp. 97–125). University of Minnesota Press. http://www.jstor.org/stable/10.5749/j.ctttv622.9
+- Aarseth, E. J. (1997). No Sense of an Ending: Hypertext Aesthetics. In Espen J. Aarseth 1965-, Cybertext : perspectives on ergodic literature (pp. 76–96). Johns Hopkins University Press.
+
+## Wednesday. 
+
+### Interactive narrative and ‘ergotic’ literature 
+
+Question: How does interactivity change narrative craft?
+
+"Giving the audience access to the raw materials of creation runs the risk of undermining the narrative experience," …but  "calling attention to the process of creation can also enhance the narrative involvement by inviting readers/viewers to imagine themselves in the place of the creator." (Murray quoted in Hayles 2007)
+
+“… if interactivity is the property that makes the greatest difference between old and new media, it does not facilitate storytelling, because narrative meaning presupposes the linearity and unidirectionality of time, logic, and causality, while a system of choices involves a nonlinear or multilinear branching structure, such as a tree, a rhizome, or a network.” Ryan  
+
+“There are certainly narrative elements in the text working to achieve coherence and meaning but there is also an opposite force a destabilizing disfiguration that bears down on the reader's patience and sense of progress. To counter this anti hermeneutic circle the reader has to become a meta-reader mapping the network and reading a map of her own reading carefully...” (Arseth 1997, p. 93)
+
+**15 mins mini lecture:** Lucinda will unpack some of the key terms in this week’s readings.
+
+**Activity:** In small groups, read/play one of the pieces below until the ‘end’. As you do, make note of the different choices you are offered along the way, and what happens at this point in the piece? How does this choice work within the story/logic of the piece.  
+
+[Untitled Document](https://thenewriverjournal.org/untitled-document-by-tegan-webb/) by Tegan Webb
+
+[Real-Time Cancellation Adventure](https://cancellation-adventure.netlify.app/) by Vidya Rajan
+
+[How to Knit a Human](https://www.annajacobson.com.au/wp-content/uploads/2024/01/HowtoKnitHuman2024.html) by Anna Jacobson
+
+[Housing Simulator](https://thesuburbanreview.com/2024/new-media/housing-simulator-2023-zenobia-frost/) by Zenobia Frost
+
+### break
+
+**Activity:** Look at the diagrams on p.93 of (Aarseth 1997) reading and the categories: author; narrator; narratee; reader. Look at the diagrams on p. 103 and 104 of (Ryan 2006) reading and the categories of *internal v external interactivity* and *exploratory v ontological interactivity*
+
+Q: Can you analyse *the architecture* (layers, structures, interactions) of the hypertext piece you read above in these terms?
+
+### swift-reflection - 15 mins *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION
+Note your findings of the exercise above.
+
+  
