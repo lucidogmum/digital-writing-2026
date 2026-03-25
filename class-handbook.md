@@ -86,10 +86,10 @@ Aarseth, E. J. (1997). No Sense of an Ending: Hypertext Aesthetics. In Espen J. 
 
 ## **Week 5 — Assessment 1 Case Study Presentations**
 ### **Wednesday** 
-Case study presentations.
+7 case study presentations. intereactivty sketches.
 
 ### **Thursday**  
-Twine working with background images, scaling images, and using audio.
+12 case study presentations. Twine working with background images, scaling images, and using audio.
 
 ---
 
