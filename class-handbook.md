@@ -102,7 +102,7 @@ Complete an interactivity sketch of your creative work for Assessment 2.
 ## **Week 6 — Idea Development & Interactivity Mapping**
 ### **Wednesday**  
 Interactivity map sharing and ideas workshop; peer feedback. Any outstadning case study presentations; 
-Scoping and scaling ideas through mapping methods; fifth swift reflection of 300 - 400 words.
+Scoping and scaling ideas through mapping methods; fifth swift reflection of 200 - 400 words.
 ### **Thursday**  
 Twine image maps; Bitsy and Inform7 discussion. Chose your platform to work with from here.
 
