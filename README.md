@@ -481,17 +481,17 @@ If your Twine project and GitHub repo stop speaking to one another, follow [thes
 
 Presentations should by 4-5mins, 30 secs over is the maximum allowable. Beyond that will impact on assessment criteria 1 (see rubric). In between each presenter will be time for one or two questions/feedback and tech changeover. 
 
-## Wednesday 
+## Wednesday 1st April
 
 **Presentation Schedule:**
-12.35 Sophia
-12.45 Elizabeth
-12.55 Marco 
+- 12.35 Sophia
+- 12.45 Elizabeth
+- 12.55 Marco
 **5 min Break**
-1.10 Bailey
-1.20 Danae
-1.30 Amelia 
-1.40 Ryu 
+- 1.10 Bailey
+- 1.20 Danae
+- 1.30 Amelia 
+- 1.40 Ryu 
 **5 min Break**
 
 **1.45 - 2.20 Activity:** sketching early ideas. Over the mid-semester break you are asked to begin to sketch ideas for your creative work. Do you have an early concept? Begin  detailing its architecture and interactivity. Thinking about the different layers such as exploratory and ontological, internal and external interactivity as discussed last week, explore its plot, story worlds and ergotics. You should also consider the visual aspect of your piece and what kind of images and design elements you will use.  
@@ -501,22 +501,23 @@ By week 8 and Ass 2 you need the full scope of your idea and its texutal archit
 Week 6 and 7 we will have work in progress showings and peer feedback on your emerging ideas. Everyone will have the chance to present and get feedback. Even if your idea is very nascent, workshopping it in class will help. These sessions will help you trouble-shoot with each other, share any tech issues and solutions. 
 
 ---
-## Thursday 
+## Thursday 2nd April
 
 **Presentation Schedule:**
-1.35 Madeline
-1.45 Jack
-1.55 Ben
-1.05 Tegan
+- 1.35 Madeline
+- 1.45 Jack
+- 1.55 Ben
+- 1.05 Tegan
 **5 min break**
-1.20 Al
-1.30 Crislin
-1.40 Josh
-1.50 Audrey
+- 1.20 Al
+- 1.30 Crislin
+- 1.40 Josh
+- 1.50 Audrey
 **5 min break** 
-2.05 Daniel
-2.15 Angus
-2.25 Sam
-2.35 Jimmy 
-
-
+- 2.05 Daniel
+- 2.15 Angus
+- 2.25 Sam
+- 2.35 Jimmy 
+**10 min break**
+  
+**2.50 - 3.45pm Continue learning Twine, following the instructions in our class Github’s [resources-twine.md](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-twine.md) file.
