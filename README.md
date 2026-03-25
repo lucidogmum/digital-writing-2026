@@ -496,6 +496,7 @@ Presentations should by 4-5mins, 30 secs over is the maximum allowable. Beyond t
 
 **1.45 - 2.20 Activity:** sketching early ideas. Over the mid-semester break you are asked to begin to sketch ideas for your creative work. Do you have an early concept? Begin  detailing its architecture and interactivity. Thinking about the different layers such as exploratory and ontological, internal and external interactivity as discussed last week, explore its plot, story worlds and ergotics. You should also consider the visual aspect of your piece and what kind of images and design elements you will use.  
   
+
 By week 8 and Ass 2 you need the full scope of your idea and its texutal architecture mapped out, as well as an early prototype of the digital work with a minimum of 4 screens/rooms coded. 
 
 Week 6 and 7 we will have work in progress showings and peer feedback on your emerging ideas. Everyone will have the chance to present and get feedback. Even if your idea is very nascent, workshopping it in class will help. These sessions will help you trouble-shoot with each other, share any tech issues and solutions. 
