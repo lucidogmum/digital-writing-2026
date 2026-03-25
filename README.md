@@ -521,6 +521,6 @@ Week 6 and 7 we will have work in progress showings and peer feedback on your em
 - 2.35 Jimmy 
 - **10 min break**
   
-**2.50 - 3.45pm Continue learning Twine, following the instructions in our class Github’s [resources-twine.md](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-twine.md) file.
+**2.50 - 3.45pm** Continue learning Twine, following the instructions in our class Github’s [resources-twine.md](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-twine.md) file.
 
 ---
