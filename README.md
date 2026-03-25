@@ -442,4 +442,34 @@ Q: Can you analyse *the architecture* (layers, structures, interactions) of the 
 ### swift-reflection - 15 mins *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION
 Note your findings of the exercise above.
 
-  
+---
+## Thursday.
+
+### Class discussion/SWIFT REFLECTION (100-150 words): 
+
+Read Jenny’s third blog installment (for 6 minutes): https://southerlylitmag.com.au/generative-ai-model-training-why-do-you-sound-like-me-because-i-am-you/.
+
+Jenny’s first blog post set up the ethics and gambit of training a SLM on personal writing; the second post delved into the technical specs; this third post investigates lessons learned, but more importantly/compellingly it ties the digital investigation to the personal (e.g., Jen’s mental health) and the theoretical (e.g., abjection, feminism). Instead of the project being something abstract and potentially unrelatable, it becomes situated within the personal and within a broader frame. 
+
+Thinking about whatever seeds of ideas are gestating in terms of your main digital project for this class, situate your potential digital work both at a personal level and within a broader context/politics. What are your motivators for telling your particular story in the digital space? Does your emerging digital work speak to a broader ethics or politics, or does it relate to a specific community or movement, or else to theory or a certain tradition?
+
+It’s okay if you only have an inkling of an idea of what you might do. Use this space to breathe thought into the WHY of what you could potentially do. What is motivating you (aside from it being an assessment task)?
+
+Write for 8 minutes.
+
+(This reflection will be useful to return to later this semester when you write your final reflection!)
+
+
+### Intro Twine.  
+
+Here are some more examples of Twine works that have been published:
+
+- [How to Haunt](https://goingdownswinging.org.au/archives/how-to-haunt) | [full-screen version]( https://goingdownswinging.org.au/wordpress/wp-content/uploads/2021/04/Howtohaunt.html)
+- [Hello Informant](https://www.voiceworksmag.com.au/all/2022/10/31/hello-informant) | [full-screen version](https://vo-hello-informant.netlify.app/)
+- [An Open Highway on Your Back](https://scottlimbrick.itch.io/an-open-highway-on-your-back)
+
+Today we will be following the instructions in our class Github’s [resources-twine.md](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-twine.md) file.
+
+It will take two or three classes to work through the instructions. Working through these instructions is required for your folio. You will not be judged on the quality of your Twine experiments (including image map), but rather for engaging with the process as a way to expand your skillset.
+
+If your Twine project and GitHub repo stop speaking to one another, follow [these steps](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-twine.md#emergency-help---if-your-twine-project-and-your-github-are-no-longer-speaking-to-one-another-then-implement-this-solution).
