@@ -75,14 +75,14 @@ When writing in your folio you will use the plaintext formatting code called **m
 
 On the example digital writing folio click on the "README.md" and then the CODE tab. On the far right you should see a button that looks like "<>". Select that button to see the **markdown** formatting tags on the page. You can follow this technique for all the pages to see the formatting used. 
 
-### swift-reflection - 15 mins *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION
+### swift-reflection - 15 mins *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION (200-400 words)
 Edit the `swift-reflections.md` page you just created in your digital writing folio and respond to these questions: 
 
 - What makes a work a piece E-Literature?
 - Of the key examples above, which did you like most and why? 
 - What do you expect from this class? What would you like to be better at by the end of semester? 
 
-### final task (can do after class): *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION
+### final task (can do after class): *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION (100-150words)
 Edit `README.md` in your new folio. Add a biographical note by answering the following questions:
 - What types of writing do you do (e.g. fiction, nonfiction, poetry)?
 - What tools (or techniques) do you use to write? Why do you use them?
@@ -226,7 +226,7 @@ The works in these volumes are very diverse and represent the development of the
 
 It is important to contextualise the work within the Required Readings provided. You will see research and analysis is part of the assessment criteria. Below are some prompts to help you get into this. 
 
-### swift reflection - 15 mins **COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION**
+### swift reflection - 15 mins **COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION** (200-400 words)
 Consider **all** prompts below as part of your wider research toward Ass 1 but respond in writing to **one** for Studio Process Documentation:
 
 “Readers come to digital work with expectations formed by print, including extensive and deep tacit knowledge of letter forms, print conventions, and print literary modes. Of necessity, electronic literature must build on these expectations even as it modifies and transforms them. At the same time, because electronic literature is normally created and performed within a context of networked and programmable media, it is also informed by the powerhouses of contemporary culture, particularly computer games, films, animations, digital arts, graphic design, and electronic visual culture. In this sense electronic literature is a "hopeful monster" (as geneticists call adaptive mutations) composed of parts taken from diverse traditions that may not always fit neatly together…Electronic literature tests the boundaries of the literary and challenges us to re-think our assumptions of what literature can do and be.” 
@@ -352,7 +352,7 @@ and [oulipo](http://www.spoonbill.org/n+7/) experiements translate into computat
 
 Fork this simple text reassembler based on Tristan Tzara's "To Make a Dadaist Poem" [from the repo on Jenny's GitHub](https://github.com/jennyhedley/dadaremix) can you create your own dadaist remix using this code?  
 
-### swift reflection 
+### swift reflection (200-400 words)
 Having considered Berens' critique of Instgram poetry, now read this excellent essay [Closer to the Metal](https://crawlspace.cool/closer-to-the-metal) by Caleb Triscari. Reflect on your own relationship to the ubiquitous digital platforms of daily life. How do you currenly position yourself in relation to technology in your creative writing pratice? 
 
 ---
@@ -439,7 +439,7 @@ Question: How does interactivity change narrative craft?
 
 Q: Can you analyse *the architecture* (layers, structures, interactions) of the hypertext piece you read above in these terms?
 
-### swift-reflection - 15 mins *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION
+### swift-reflection - 15 mins *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION (200-400words)
 Note your findings of the exercise above.
 
 ---
