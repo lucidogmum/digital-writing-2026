@@ -469,7 +469,7 @@ Here are some more examples of Twine works that have been published:
 - [Hello Informant](https://www.voiceworksmag.com.au/all/2022/10/31/hello-informant) | [full-screen version](https://vo-hello-informant.netlify.app/)
 - [An Open Highway on Your Back](https://scottlimbrick.itch.io/an-open-highway-on-your-back)
 
-Today we will be following the instructions in our class Github’s [resources-twine.md](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-twine.md) file.
+Today we will be following the instructions in our class Github’s [resources-twine.md](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-twine.md) file. (If you missed class, follow all of the instructions up to the Image Maps section, which is where we will pick up again next week.)
 
 It will take two or three classes to work through the instructions. Working through these instructions is required for your folio. You will not be judged on the quality of your Twine experiments (including image map), but rather for engaging with the process as a way to expand your skillset.
 
@@ -519,6 +519,6 @@ Week 6 and 7 we will have work in progress showings and peer feedback on your em
 - 2.35 Jimmy 
 - **10 min break**
   
-**2.50 - 3.45pm** Continue learning Twine, following the instructions in our class Github’s [resources-twine.md](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-twine.md) file.
+**2.50 - 4.15 pm** Continue learning Twine, following the instructions in our class Github’s [resources-twine.md](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-twine.md) file. We will start where we left off last week by doing [image maps](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-twine.md#image-maps). 
 
 ---
