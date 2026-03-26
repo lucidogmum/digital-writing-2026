@@ -299,7 +299,7 @@ Jenny has collected the addresses of the GitHub repositories for all Digital Wri
 - [Madeline](https://github.com/madstar246)
 - [Al](https://github.com/ahempem)
 - [Jimmy](https://github.com/jimmybutterfield)
-- [Jack](https://github.com/pisnisprinse)
+- [Jack](https://github.com/jackalexanderauthor)
 - [Sam](https://github.com/stwilly)
 - [Ryu](https://github.com/ryu-ichii)
 - [Marco](https://github.com/NMC-byte)
