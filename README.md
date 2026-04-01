@@ -486,10 +486,10 @@ Presentations should by 4-5mins, 30 secs over is the maximum allowable. Beyond t
 **Presentation Schedule:**
 - 12.35 Sophia
 - 12.45 Elizabeth
-- 12.55 Marco
+- 12.55 Jack
 - **5 min Break**
 - 1.10 Danae
-- 1.20 Amelia 
+- 1.20 Marco 
 - 1.30 Ryu 
 - **5 min Break**
 
@@ -504,7 +504,7 @@ Week 6 and 7 we will have work in progress showings and peer feedback on your em
 
 **Presentation Schedule:**
 - 1.35 Madeline
-- 1.45 Jack
+- 1.45 Amelia
 - 1.55 Ben
 - 1.05 Tegan
 - **5 min break**
