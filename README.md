@@ -506,17 +506,17 @@ Week 6 and 7 we will have work in progress showings and peer feedback on your em
 - 1.35 Madeline
 - 1.45 Amelia
 - 1.55 Ben
-- 1.05 Tegan
+- 2.05 Tegan
 - **5 min break**
-- 1.20 Al
-- 1.30 Crislin
-- 1.40 Josh
-- 1.50 Audrey
+- 2.20 Al
+- 2.30 Crislin
+- 2.40 Josh
+- 2.50 Audrey
 - **5 min break** 
-- 2.05 Daniel
-- 2.15 Angus
-- 2.25 Sam
-- 2.35 Jimmy 
+- 3.05 Daniel
+- 3.15 Angus
+- 3.25 Sam
+- 3.35 Jimmy 
 - **10 min break**
   
 **2.50 - 4.15 pm** Continue learning Twine, following the instructions in our class Github’s [resources-twine.md](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-twine.md) file. We will start where we left off last week by doing [image maps](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-twine.md#image-maps). 
