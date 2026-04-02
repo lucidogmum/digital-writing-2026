@@ -306,6 +306,7 @@ Jenny has collected the addresses of the GitHub repositories for all Digital Wri
 - [Audrey](https://github.com/lilbabytrappr)
 - [Tegan](https://github.com/teganparrish)
 - [Elizabeth](https://github.com/AppositeAntics)
+- [Angus](https://github.com/Gustuph)
 
 ### Note re next Thursday: Author websites!
 
