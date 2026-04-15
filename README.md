@@ -527,13 +527,13 @@ Week 6 and 7 we will have work in progress showings and peer feedback on your em
 # Week 6 - in class
 ## Wednesday April 15
 
-Welcome back to the second half of semester when you will *realise your own work of E-Lit!* **Awesome.** This is an exciting and challenging task so let's get right on to it! In the next 2 weeks you will develop a rigorous proposal for a viable work. By week 8 Ass 2 you need to have the full scope of your idea and its interactivity architecture mapped out, as well as an early prototype of the digital work with a minimum of 4 screens/rooms coded. (see class-handbook for Ass 2 requirements). The next two weeks will be dedicated to mapping, scoping and completing that. And be prepared to make mistakes and for things not to work! This is all part of the process. 
+Welcome back to the second half of semester when you will *realise your own work of E-Lit!* **Awesome.** This is an exciting and challenging task so let's get right on to it! In the next 2 weeks you will develop a rigorous proposal for a viable work. By week 8 Ass 2 you need to have the full scope of your idea and its interactivity architecture mapped out, as well as an early prototype of the digital work with a minimum of 4 screens/rooms coded. (See class-handbook for Ass 2 requirements). The next two weeks will be dedicated to mapping, scoping and completing that work. And be prepared to make mistakes and for things not to work! This is all part of the process. 
 
 **First up today: Progress Audit #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASS 2#** <br>
-Take 10 minutes to complete this in your folio. What is your early concept? Do you have any sketching/mapping done that details interactivity architecture? If so link to miro or other platform, or provide images of analogue working. What are the relations and storyworlds intenral and externally? What is left to chance and ergotics? Have you considered the visual aspect of your piece and what kind of images and design elements you will use?  
+Take 10 minutes to complete this in your folio. What is your early concept? Do you have any sketching/mapping done that details interactivity architecture? If so, link to miro or other platform, or provide images of analogue working. What are the relations and storyworlds internally and externally? What is left to chance and ergotics? Have you considered the visual aspect of your piece and what kind of images and design elements you will use?  
 
 **from 12.45 - 1:45 concept workshopping**<br>
-Over the next 2 weeks everyone will have the chance to workshop their concpet. You are invited to show-n-tell for 3 minutes and recevieve feedback. Even if your idea is very nascent, workshopping it in class will help. These sessions will also help with sharing any tech issues and solutions. 
+Over the next 2 weeks everyone will have the chance to workshop their concept. You are invited to show-n-tell for 3 minutes and receive feedback. Even if your idea is very nascent, workshopping it in class will help. These sessions will also help with sharing any tech issues and solutions. 
 
 ### break
 
