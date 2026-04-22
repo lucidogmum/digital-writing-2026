@@ -525,7 +525,7 @@ Week 6 and 7 we will have work in progress showings and peer feedback on your em
 ---
 
 # Week 6 - in class
-## Wednesday April 15
+## Wednesday April 15 & Thursday April 16
 
 Welcome back to the second half of semester when you will *realise your own work of E-Lit!* **Awesome.** This is an exciting and challenging task so let's get right on to it! In the next 2 weeks you will develop a rigorous proposal for a viable work. By week 8 Ass 2 you need to have the full scope of your idea and its interactivity architecture mapped out, as well as an early prototype of the digital work with a minimum of 4 screens/rooms coded. (See class-handbook for Ass 2 requirements). The next two weeks will be dedicated to mapping, scoping and completing that work. And be prepared to make mistakes and for things not to work! This is all part of the process. 
 
@@ -539,6 +539,27 @@ Over the next 2 weeks everyone will have the chance to workshop their concept. Y
 
 **Planning session #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASS 2#** <br>
 In the last part of today's class reflect on what you need to do next in your concept development process. Define 3 key tasks, and give yourself a date for completing them.
+
+---
+
+# Week 7 - in class
+## Wednesday April 22
+
+Today we will continue with the development and protoyping of your creative work toward Assessment 2. 
+
+**First up today: progress check #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASS 2#** <br>
+Take 10 minutes to complete this in your folio. Last week you defined three tasks you needed to do. How did these go? Did you complete them and if so where did they lead you in your development process? If not, why not? Is this a time management issue or did something else get in the way? Do you need to check in with Jenny or Lucinda about an extension? If so let us know now. 
+
+### Iteration discussion ###
+Iteration is a bit like the drafting process we are used to as writers. It is the process of trying something, reflecting on results and doing it again with appropriate adjustments. Iteration is a process that finds a lot of value in failures and thing that don't work. Have any of your ideas completely bombed this week when you tried them? Or partially worked? Or worked better than expected? Have you had any major changes in the direction of your ideas due to this process of iteration?
+
+**SWIFT REFLECTION: Iteration #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASS 2#** <br>
+Have you been working with this iterative method? If so, note a particular example of how this method has worked for you as you have been developing your idea. If not, note down something you would like to test and iterate as an immediate next step.
+
+### break 5 mins
+
+**from 1.45 - 2:20 workshopping in pairs**<br> 
+Show your work and discuss it with a partner. Discuss the creative concept, the interactivity architecture, the work's themes and how all these elements are coming together. It is best to do this with someone fresh, who you perhaps have not disucssed it with previously. Lucinda will suggest pairs. 
 
 ---
 
