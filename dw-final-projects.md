@@ -7,7 +7,7 @@
 
 In 'Who Killed Miss Jones?', the small, rural Victorian town of Sentry Creek is brimming with dirty secrets. It's been 40 years since the unexplained disappearance of school-teacher Daphne Marie Jones. Playing as a cold-case detective, you are sent from the Metropolitan Police to re-examine four eyewitness accounts - provided by four teenage girls around the time of Daphne's disappearance. You must solve riddles upon riddles, dissect lies and discover hidden clues to answer the titular question: Who Killed Miss Jones? And more importantly...why? A world of psychological horror, disturbing twists and eerily authentic characters await. Who is lying to you, who is telling the truth? Can you find the correct answer and solve the decades-long mystery?
 
-- Mollie H - [Kaitlyn's Blog](https://kaitlyns-blog.glitch.me/)
+- Mollie H - [Kaitlyn's Blog](https://azur1al.github.io/kaitlyns-blog/))
   
 A website-based piece of interactive fiction for ARG and mystery fans alike, Kaitlyn’s Blog is an interactive mystery in which you must find the answer to your girlfriend’s years-old disappearance. Utilising hidden links, codes, and secret messages, this piece of interactive fiction will have you navigate the increasingly complex maze that’s hidden beneath the many layers that makes up the gentle façade that has become Kaitlyn’s Blog.
 Content warning for mentions of domestic abuse, violence, and murder.
