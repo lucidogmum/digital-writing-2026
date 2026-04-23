@@ -563,7 +563,7 @@ Show your work and discuss it with a partner. Discuss the creative concept, the 
 
 ---
 
-## Wednesday April 23
+## Thursday April 23
 
 Today we will continue discussing your work - this time with a new partner. 
 
