@@ -608,7 +608,7 @@ Presentations should by 6-7mins, 30 secs over is the maximum allowable. Beyond t
 - 2.57 Sophia
 - 3.09 Ryu
 - 3.21 Madeline
-- 
+ 
 ***5 min break***
   
 - 3.38 Tegan
