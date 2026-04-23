@@ -584,7 +584,9 @@ Presentations should by 6-7mins, 30 secs over is the maximum allowable. Beyond t
 - 12.35pm Elizabeth
 - 12.47 Angus
 - 1.00 Nicholas
+  
 ***5 min break***
+
 - 1.18
 - 1.30
 
@@ -594,15 +596,21 @@ Presentations should by 6-7mins, 30 secs over is the maximum allowable. Beyond t
 - 1.35pm Jack
 - 1.47 Audrey
 - 1.59 Danae
+
 ***5 min break***
+
 - 2.16 Josh
 - 2.28 Crislin
 - 2.40 Daniel
+  
 ***5 min break***
+
 - 2.57 Sophia
 - 3.09 Ryu
 - 3.21 Madeline
+- 
 ***5 min break***
+  
 - 3.38 Tegan
 - 3.50 Al
 - 4.02 Sam
