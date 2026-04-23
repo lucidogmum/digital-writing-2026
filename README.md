@@ -563,3 +563,16 @@ Show your work and discuss it with a partner. Discuss the creative concept, the 
 
 ---
 
+## Wednesday April 23
+
+Today we will continue discussing your work - this time with a new partner. 
+
+Discuss the following and **complete a SWIFT REFLECTION  #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASS 2#** which addresses the following:
+
+- What is the purpose of your piece? Was there an inspiration that brought it about?
+- What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further?
+- What are the practical next steps you will take to prepare your work-in-progress for presentation (including turning in your slides by next Friday 1st May)?
+  
+
+
+
