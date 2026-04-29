@@ -583,7 +583,7 @@ Presentations should by 6-7mins, 30 secs over is the maximum allowable. Beyond t
 
 - 12.35pm Elizabeth
 - 12.47 Angus
-- 1.00 Nicholas
+- 1.00 
   
 ***5 min break***
 
@@ -594,7 +594,7 @@ Presentations should by 6-7mins, 30 secs over is the maximum allowable. Beyond t
 ## Thursday April 30 Presentation Schedule
 
 - 1.35pm Jack
-- 1.47 Audrey
+- 1.47
 - 1.59 Danae
 
 ***5 min break***
@@ -607,7 +607,7 @@ Presentations should by 6-7mins, 30 secs over is the maximum allowable. Beyond t
 
 - 2.57 Sophia
 - 3.09 Ryu
-- 3.21 Madeline
+- 3.21 
  
 ***5 min break***
   
@@ -615,4 +615,17 @@ Presentations should by 6-7mins, 30 secs over is the maximum allowable. Beyond t
 - 3.50 Al
 - 4.02 Sam
 
+# Week 9 - in class
 
+## Wednesday Assess 2 case Study Presentations cont
+
+- 12.35 Marco (Nicholas)
+- 12.47 Audrey
+- 12.59 Ben
+  
+***5 min break***
+
+- 1.16 Al
+- 1.28 Madeline
+- 1.40 Jimmy
+- 1.52 Amelia 
