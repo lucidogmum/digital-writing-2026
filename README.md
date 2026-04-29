@@ -594,26 +594,26 @@ Presentations should by 6-7mins, 30 secs over is the maximum allowable. Beyond t
 ## Thursday April 30 Presentation Schedule
 
 - 1.35pm Jack
-- 1.47
-- 1.59 Danae
+- 1.47 Danae
+- 1.59 Josh
 
 ***5 min break***
 
-- 2.16 Josh
-- 2.28 Crislin
-- 2.40 Daniel
+- 2.16 Crislin
+- 2.28 Daniel
+- 2.40 Sophia
   
 ***5 min break***
 
-- 2.57 Sophia
-- 3.09 Ryu
-- 3.21 
+- 2.57 Ryu
+- 3.09 Tegan
+- 3.21 Sam
  
 ***5 min break***
   
-- 3.38 Tegan
-- 3.50 Al
-- 4.02 Sam
+- 3.38 Does anyone else want to get their preso over with? We have time!
+- 3.50 
+- 4.02 
 
 # Week 9 - in class
 
