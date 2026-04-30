@@ -583,13 +583,6 @@ Presentations should by 6-7mins, 30 secs over is the maximum allowable. Beyond t
 
 - 12.35pm Elizabeth
 - 12.47 Angus
-- 1.00 
-  
-***5 min break***
-
-- 1.18
-- 1.30
-
 
 ## Thursday April 30 Presentation Schedule
 
@@ -607,17 +600,11 @@ Presentations should by 6-7mins, 30 secs over is the maximum allowable. Beyond t
 
 - 2.57 Ryu
 - 3.09 Tegan
-- 3.21 Sam
- 
-***5 min break***
-  
-- 3.38 Does anyone else want to get their preso over with? We have time!
-- 3.50 
-- 4.02 
+
 
 # Week 9 - in class
 
-## Wednesday Assess 2 case Study Presentations cont
+## Wednesday 6th May Assess 2 case Study Presentations cont
 
 - 12.35 Marco (Nicholas)
 - 12.47 Audrey
@@ -628,4 +615,22 @@ Presentations should by 6-7mins, 30 secs over is the maximum allowable. Beyond t
 - 1.16 Al
 - 1.28 Madeline
 - 1.40 Jimmy
-- 1.52 Amelia 
+- 1.52 Amelia
+
+---
+
+## Thursday 7th May Assess 2 case Study Presentations cont
+
+- 1.35pm Sam
+- 1.47 anyone else need to present?
+
+
+### Tech troubleshooting time (Thursday)
+
+After any make-up presentations, Jenny will spend time troubleshooting tech issues in class. It will make it easier if people would please send a quick email to Jenny on Thursday morning (or during class is fine too, but problems will be troubleshooted in the order received) with the following info:
+
+- a very brief summary of the issue and/or what it is that you want to achieve
+- any screenshots if you think that'd be helpful (e.g., to show which of your Twine passages needs targeting) - none if not
+- a link to the GitHub repository which has the latest version of your project saved
+
+Thank you :)
