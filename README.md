@@ -616,7 +616,7 @@ Presentations should by 6-7mins, 30 secs over is the maximum allowable. Beyond t
 - 1.28 Madeline
 - 1.40 Amelia
 
----
+--
 
 ## Thursday 7th May Assess 2 case Study Presentations cont
 
@@ -634,3 +634,20 @@ After any make-up presentations, Jenny will spend time troubleshooting tech issu
 - a link to the GitHub repository which has the latest version of your project saved
 
 Thank you :)
+
+---
+
+## Show and Tell - Horizons event - Monday 18th May in Megaflex 1 & 2 - arrive 2.45pm for a prompt 3pm start
+
+- We need three volunteers from Digital Writing to present their works-in-progress to the wider Horizons cohort; ideally, we will also have a volunteer to introduce each of the students
+- Digital Writing is allocated 30 minutes for presentations 
+- These presentations are student-led and are an opportunity for you to practice public speaking and to share your creations with your peers and other creative writing teachers
+
+Tech info:
+- AV will be on site by 2pm to set up the screens/assist with any trouble shooting that may occur. 
+- AV will provide a power supply at the front of the room so the students who are showing content on their laptops can power them.
+- They will provide HDMI cables.
+- They will provide handhelds (if needed).
+- As the door between the rooms only opens partially, we can use Megaflex 1 as the main room and then Megaflex 2 for overflow, in which case tech can set up the screens in Megaflex 2 to duplicate content being shown in Megaflex 1. If there are too many people, they can sit in there and still see/hear what is being presented. 
+
+You are all encouraged to celebrate your hard work afterwards by going out to the pub or somewhere!
