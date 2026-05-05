@@ -614,15 +614,15 @@ Presentations should by 6-7mins, 30 secs over is the maximum allowable. Beyond t
 
 - 1.16 Al
 - 1.28 Madeline
-- 1.40 Jimmy
-- 1.52 Amelia
+- 1.40 Amelia
 
 ---
 
 ## Thursday 7th May Assess 2 case Study Presentations cont
 
 - 1.35pm Sam
-- 1.47 anyone else need to present?
+- 1.47   Jimmy
+- anyone else need to present?
 
 
 ### Tech troubleshooting time (Thursday)
