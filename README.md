@@ -651,3 +651,20 @@ Tech info:
 - As the door between the rooms only opens partially, we can use Megaflex 1 as the main room and then Megaflex 2 for overflow, in which case tech can set up the screens in Megaflex 2 to duplicate content being shown in Megaflex 1. If there are too many people, they can sit in there and still see/hear what is being presented. 
 
 You are all encouraged to celebrate your hard work afterwards by going out to the pub or somewhere!
+
+---
+
+# Week 10 - in class
+
+## Wednesday 12th May 
+
+Today and next week we will focus on developing the theme and story elements of your work now that your prototyping and interactivity architecture is in place. You will spend time in two lots of feedback pairs, so that each person has two other people experiencing the work. Once you have completed both feedback exchanges complete the process documentation activity below.
+
+Questions to consider: could the written parts of the work be developed if so, how? What do you want more of as a reader/user? What are you curious about? Is there room for more complexity? Or on the contrary, is there a need for futher clarity and simplification?
+
+**#THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3#**<br>
+Summarize the feedback you have received and consider what you will take on and what you might leave aside. Define 3 key tasks to do before next week.
+
+
+
+ 
