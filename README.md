@@ -693,6 +693,44 @@ Describe and evaulate with references:
 
 **Complete a SWIFT REFLECTION which is a partial, 250-word draft Critical Reflection #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3#** 
 
+### Author website ###
+
+Many of you have already begun your author websites. The key requirements for Assess 3 is that your **published** author website includes:
+
+1. A bio (minimum 100 words - no maximum length)
+2. Link to your completed E‑Lit work
+3. Any other creative pieces or design elements for your professional profile
+
+The website must be published for us to view and mark it as complete!!!
+
+**Building your author website**
+
+1.	FORK (click the word 'fork') [https://github.com/jennyhedley/dw-author-website](https://github.com/jennyhedley/dw-author-website)
+2.	CLONE this forked repo via GitHub Desktop (***SAVE to DW DESKTOP folder to be used throughout semester)
+3.	OPEN in VS Code (via GitHub Desktop prompt) and make edits
+   
+- Update the index.html with content such as:
+  - Your name
+  - Your photo or an image
+  - Links to your digital works
+  - Publications
+  - Artist statement and/or biography
+  - Including your contact details is completely optional
+- Update the styles.css with styles such as:
+  - Font
+  - Background and text colour
+  - Layout changes
+  
+5.	COMMIT to GitHub via GitHub Desktop
+6.	PUSH commits via GitHub online
+7.	PUBLISH via GitHub Pages
+8.	*IMPORTANT* Claim your `username.github.io` website (GitHub gives you just one) by clicking `Settings` when you are in your repo on github.com. You will enter type your username.github.io (e.g., jennyhedley.github.io) and click `Rename`.
+9.	Make changes to the HTML/CSS/JS in VS code and then commit your changes as needed using GitHub Desktop (which should will automatically detect your updated repository).
+
 ### Game software: Bitsy ###
 
- 
+Once you've updated your author website, please follow my simple [14-minute Bitsy tutorial video](https://www.loom.com/share/e02adc5163c8433fa6a99305d3ffc010) which will show you how to work on your own 8-bit games!
+
+**Build and publish on GitHub Pages a simple two-room Bitsy game #THIS IS AN IN-CLASS ACTIVITY WHICH IS REQUIRED TO BE DOCUMENTED FOR ASSESS 3#** 
+
+You can find further [Bitsy resources and instructions here](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-games.md#bitsy).
