@@ -677,7 +677,7 @@ But first, please spend 10 minutes reading the fourth and final of my (Jenny's) 
 I want you to think about the following as you read:
 
 1. What place do affect and emotion have in digital works?
-2. How does bringing theory into reflective practice enrich discussions of method and practice?
+2. How does bringing theory and/or critical readings into reflective practice enrich discussions of method and practice?
 3. What narrative arc do you detect in this piece and/or how does adding a narrative frame to reflective writing make a piece more satisfying?
 
 **Complete a SWIFT REFLECTION with 50-word responses to each of the above questions #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3#** 
