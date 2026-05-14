@@ -666,5 +666,33 @@ Questions to consider: could the written parts of the work be developed if so, h
 Summarize the feedback you have received and consider what you will take on and what you might leave aside. Define 3 key tasks to do before next week.
 
 
+## Thursday 13th May 
+
+Today we will spend time thinking about and working on reflective writing practice, which is both required as part of your process documentation and will feed directly into your final assessment. You can reuse (in whole or in part, with editing of course!) the reflection you write today for the 500-word Critical Reflection that you must turn in with Assess 3. 
+
+But first, please spend 10 minutes reading the fourth and final of my (Jenny's) Southerly blog investigations on training a small language model:
+
+['Archival bots: My mother, my model for language'](https://southerlylitmag.com.au/archival-bots-my-mother-my-model-for-language/)
+
+I want you to think about the following as you read:
+
+1. What place do affect and emotion have in digital works?
+2. How does bringing theory into reflective practice enrich discussions of method and practice?
+3. What narrative arc do you detect in this piece and/or how does adding a narrative frame to reflective writing make a piece more satisfying?
+
+**Complete a SWIFT REFLECTION with 50-word responses to each of the above questions #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3#** 
+
+### Instructions for the 500-word Critical Reflection for Assess 3: ###
+
+Describe and evaulate with references:
+
+- Key learning moments (“light‑bulb” moments)
+- Insights from studio, group, and personal creative process
+- Connections to scholarly contexts from course readings
+- Reflection on how your work fits into the broader field of digital writing practice
+
+**Complete a SWIFT REFLECTION which is a partial, 250-word draft Critical Reflection #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3#** 
+
+### Game software: Bitsy ###
 
  
