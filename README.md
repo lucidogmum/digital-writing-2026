@@ -733,4 +733,4 @@ Once you've updated your author website, please follow my simple [14-minute Bits
 
 **Build and publish on GitHub Pages a simple two-room Bitsy game #THIS IS AN IN-CLASS ACTIVITY WHICH IS REQUIRED TO BE DOCUMENTED FOR ASSESS 3#** 
 
-You can find further [Bitsy resources and instructions here](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-games.md#bitsy).
+You can find further [Bitsy examples, resources and instructions here](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-games.md#bitsy).
