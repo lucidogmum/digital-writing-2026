@@ -668,6 +668,8 @@ Summarize the feedback you have received and consider what you will take on and 
 
 ## Thursday 13th May 
 
+### Please remember to upload your slides to Canvas plus links to your e-lit work-in-progress and your GitHub's swift reflections/class exercises - DO THIS NOW IF YOU HAVEN'T ALREADY SO YOU DON'T FORGET AND GET MARKED AS LATE ###
+
 Today we will spend time thinking about and working on reflective writing practice, which is both required as part of your process documentation and will feed directly into your final assessment. You can reuse (in whole or in part, with editing of course!) the reflection you write today for the 500-word Critical Reflection that you must turn in with Assess 3. 
 
 But first, please spend 10 minutes reading the fourth and final of my (Jenny's) Southerly blog investigations on training a small language model:
