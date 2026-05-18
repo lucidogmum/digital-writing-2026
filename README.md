@@ -736,3 +736,24 @@ Once you've updated your author website, please follow my simple [14-minute Bits
 **Build and publish on GitHub Pages a simple two-room Bitsy game #THIS IS AN IN-CLASS ACTIVITY WHICH IS REQUIRED TO BE DOCUMENTED FOR ASSESS 3#** 
 
 You can find further [Bitsy examples, resources and instructions here](https://github.com/lucidogmum/digital-writing-2026/blob/main/resources-games.md#bitsy).
+
+---
+# Horizons Showcase - Monday 18th May - be there at 2.45pm for 3pm sharp start #
+
+Our showcase of students work will be held in Megaflex 1 & 2 (008.04.011 and 008.04.012) on Monday 18 May 2:30pm-5pm. Readings start at 3pm, so don't be late.
+
+Here's the RUNSHEET IN PROGRESS:
+
+Acknowledgement of Country and welcome – Peta
+ 
+2. Aaron to introduce Soolagna Majumdar (comic artist)
+ 
+3. Soolagna to give a 5 – 7 minute presentation about her creative practice
+ 
+3. Comics Group - Chris and Elodie will both do a creative reading
+ 
+4. Digital Writing - Elizabeth, Ben and Josh to share their work
+
+5. Writing off Script 
+ 
+6. Close
