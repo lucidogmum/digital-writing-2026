@@ -765,9 +765,8 @@ Acknowledgement of Country and welcome – Peta
 ### today is a working session with individual progress consultations with Lucinda ###
 
 **PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3** 
-Check the full [submission instructions for assessment 3](https://github.com/lucidogmum/digital-writing-2026/blob/main/class-handbook.md#assessment-3-developed-creative-work-folio--professional-website-50) 
 
-What aspect of your Ass 3 submission needs the most attention? Create a priority list with soft deadlines to meet up until June 5. 
+Check the full [submission instructions for assessment 3](https://github.com/lucidogmum/digital-writing-2026/blob/main/class-handbook.md#assessment-3-developed-creative-work-folio--professional-website-50) What aspect of your Ass 3 submission needs the most attention? Create a priority list with soft deadlines to meet up until June 5. 
 
 ---
 
