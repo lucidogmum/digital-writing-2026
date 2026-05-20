@@ -656,7 +656,7 @@ You are all encouraged to celebrate your hard work afterwards by going out to th
 
 # Week 10 - in class
 
-## Wednesday 12th May 
+## Wednesday 13th May 
 
 Today and next week we will focus on developing the theme and story elements of your work now that your prototyping and interactivity architecture is in place. You will spend time in two lots of feedback pairs, so that each person has two other people experiencing the work. Once you have completed both feedback exchanges complete the process documentation activity below.
 
@@ -666,7 +666,7 @@ Questions to consider: could the written parts of the work be developed if so, h
 Summarize the feedback you have received and consider what you will take on and what you might leave aside. Define 3 key tasks to do before next week.
 
 
-## Thursday 13th May 
+## Thursday 14th May 
 
 ### Please remember to upload your slides to Canvas plus links to your e-lit work-in-progress and your GitHub's swift reflections/class exercises - DO THIS NOW IF YOU HAVEN'T ALREADY SO YOU DON'T FORGET AND GET MARKED AS LATE ###
 
@@ -757,3 +757,21 @@ Acknowledgement of Country and welcome – Peta
 5. Writing off Script 
  
 6. Close
+
+# Week 11 - in class
+
+## Wednesday 20th May 
+
+### today is a working session with individual progress consultations with Lucinda ###
+
+**PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3** 
+Check the full [submission instructions for assessment 3](https://github.com/lucidogmum/digital-writing-2026/blob/main/class-handbook.md#assessment-3-developed-creative-work-folio--professional-website-50) 
+
+What aspect of your Ass 3 submission needs the most attention? Create a priority list with soft deadlines to meet up until June 5. 
+
+---
+
+
+
+
+
