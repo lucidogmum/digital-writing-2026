@@ -784,10 +784,24 @@ Every project should have some sort of landing page with project title and autho
 
 Thank you!
 
+Use the following links to click to your project, author website, swift reflections, etc. when you're on the class computer.
 
-
-
-
-
-
-
+- [Danae](https://github.com/danaecox)
+- [Ben](https://github.com/dragonmaster420)
+- [Josh](https://github.com/joshswonderfulhub)
+- [Sophia](https://github.com/sophiaanastasiadis)
+- [Bailey](https://github.com/bailey523)
+- [Daniel](https://github.com/thedanielv1)
+- [Crislin](https://github.com/crislin-rose)
+- [Amelia](https://github.com/ameliaaa-fink)
+- [Madeline](https://github.com/madstar246)
+- [Al](https://github.com/ahempem)
+- [Jimmy](https://github.com/jimmybutterfield)
+- [Jack](https://github.com/jackalexanderauthor)
+- [Sam](https://github.com/stwilly)
+- [Ryu](https://github.com/ryu-ichii)
+- [Marco](https://github.com/NMC-byte)
+- [Audrey](https://github.com/lilbabytrappr)
+- [Tegan](https://github.com/teganparrish)
+- [Elizabeth](https://github.com/AppositeAntics)
+- [Angus](https://github.com/Gustuph)
