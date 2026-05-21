@@ -774,7 +774,7 @@ Check the full [submission instructions for assessment 3](https://github.com/luc
 
 For Assess 2, some people shared local links that were not visible to us, your teachers who are marking you! If this happens for Assess 3, and your final project is not viewable barring forking to our own computers (or at all), we will be less generous with marking.
 
-We need to make sure that everyone's projects are saved to their GitHub repositories and published via GitHub pages. Same goes for your author websites. 
+We need to make sure that everyone's projects are saved to their GitHub repositories and published via GitHub pages. Same goes for your author websites (which are expected to have a working link to your final project). 
 
 **Before you leave class today (and in order to be marked as in attendance today), you must open your project via your GitHub link on the classroom computer and then demonstrate the narrative that you've coded to date**, to receive additional feedback and for us to understand whether you have outstanding tech issues needing resolving.
 
