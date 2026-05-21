@@ -762,7 +762,7 @@ Acknowledgement of Country and welcome – Peta
 
 ## Wednesday 20th May 
 
-### today is a working session with individual progress consultations with Lucinda ###
+### Today is a working session with individual progress consultations with Lucinda ###
 
 **PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3** 
 
@@ -770,7 +770,7 @@ Check the full [submission instructions for assessment 3](https://github.com/luc
 
 ## Thursday 21st May 
 
-### today is a working session with individual progress consultations with Jenny ###
+### Today is a working session with individual progress consultations with Jenny ###
 
 For Assess 2, some people shared local links that were not visible to us, your teachers who are marking you! If this happens for Assess 3, and your final project is not viewable barring forking to our own computers (or at all), we will be less generous with marking.
 
