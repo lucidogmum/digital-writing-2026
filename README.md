@@ -768,7 +768,24 @@ Acknowledgement of Country and welcome – Peta
 
 Check the full [submission instructions for assessment 3](https://github.com/lucidogmum/digital-writing-2026/blob/main/class-handbook.md#assessment-3-developed-creative-work-folio--professional-website-50) What aspect of your Ass 3 submission needs the most attention? Create a priority list with soft deadlines to meet up until June 5. 
 
----
+## Thursday 21st May 
+
+### today is a working session with individual progress consultations with Jenny ###
+
+For Assess 2, some people shared local links that were not visible to us, your teachers who are marking you! If this happens for Assess 3, and your final project is not viewable barring forking to our own computers (or at all), we will be less generous with marking.
+
+We need to make sure that everyone's projects are saved to their GitHub repositories and published via GitHub pages. Same goes for your author websites. 
+
+**Before you leave class today (and in order to be marked as in attendance today), you must open your project via your GitHub link on the classroom computer and then demonstrate the narrative that you've coded to date**, to receive additional feedback and for us to understand whether you have outstanding tech issues needing resolving.
+
+Every project should have some sort of landing page with project title and author name, unless you can argue a reason why you should not have one. Or, alternatively, the title/attribution can somehow be embedded in the page design. It is standard, professional practice for e-lit to showcase this information (in creative ways, where possible). 
+
+**You must also open and share your author website and share your progress with your swift reflections and class exercises including the Bitsy game** that would've taken 15 minutes to code and save/publish. This is all required for Assess 3 and with only one week left, we need to know that you're on track.
+
+Thank you!
+
+
+
 
 
 
