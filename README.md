@@ -805,3 +805,21 @@ Use the following links to click to your project, author website, swift reflecti
 - [Tegan](https://github.com/teganparrish)
 - [Elizabeth](https://github.com/AppositeAntics)
 - [Angus](https://github.com/Gustuph)
+
+# Week 12 - in class
+
+## Wednesday 27th May 
+
+Looking forward to seeing you today and conituing with the above exercise if you have not completed it. 
+
+We will also discuss key points toward your final reflection and we'll do a 25 minute pomodoro session:
+
+- Key learning moments (“light‑bulb” moments) - what were they? Identify and describe.
+- think about insights from weekly topics, in-class exercises, group and personal creative process 
+- Connections to scholarly contexts from course readings -deepen your reflection through evaluating via course readings: i.e. this is interesting because...
+- Reflection on how your work fits into the broader field of digital writing practice - where will you take this?
+
+### everyone in class today will get a homemade miso sesame cookie to celebrate your excellent work this semester :) 
+
+---
+
