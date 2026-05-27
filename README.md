@@ -822,4 +822,17 @@ We will also discuss key points toward your final reflection and we'll do a 25 m
 ### everyone in class today will get a homemade miso sesame cookie to celebrate your excellent work this semester :) 
 
 ---
+## Creative Writing Reading Night July 14 ##
+
+**It would be fantastic to have Digital Writing pieces read/played! You might consider having someone play your piece while you read or vice-versa or you might also extend the performativity of your digital work into the live space of the reading somehow...lots of fun to be had**
+
+One of the most anticipated "nights" of the year, our next Student Reading 'Night' will take place on Thursday, 14 July, from 5-7pm in the Radio Theatre. Mark the date in your calendar NOW.
+
+If you have attended one of these before, you know the drill.  Arrive in time for snacks. If you plan to read something (3 - 5 minutes long), write your name on a piece of paper, pop it in the "hat", and wait for the draw that determines the order of ceremonies. All readers take home a book prize.
+
+A wonderful occasion for staff and students alike. All students encouraged to share work-in-progress across forms, genres, and courses. Be there or be sad that you missed it!
+
+Questions to: peta.murray2@rmit.edu.au
+
+---
 
